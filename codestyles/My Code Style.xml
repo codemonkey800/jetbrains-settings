@@ -8,6 +8,10 @@
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="2" />
   </CssCodeStyleSettings>
+  <HoconCodeStyleSettings>
+    <option name="OBJECTS_ALIGN_WHEN_MULTILINE" value="true" />
+    <option name="LISTS_ALIGN_WHEN_MULTILINE" value="true" />
+  </HoconCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
@@ -32,6 +36,7 @@
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
@@ -48,12 +53,19 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
+    <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
@@ -84,6 +96,18 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
