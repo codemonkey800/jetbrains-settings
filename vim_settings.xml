@@ -20,10 +20,10 @@
       <file name="/Scala Console" timestamp="1488432240825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/Main.scala" timestamp="1488432266720">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/Main.scala" timestamp="1488440859987">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/src/app/test-app/app/src/androidTest/java/jeremyasuncion/io/testapp/ExampleInstrumentedTest.java" timestamp="1483243304749">
@@ -82,29 +82,8 @@
       <jump line="28" column="27" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbiB7Cgp9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8Y29tcG9uZW50IG5hbWU9IkphdmFTY3JpcHRTZXR0aW5ncyI+CiAgICA8b3B0aW9uIG5hbWU9Imxhbmd1YWdlTGV2ZWwiIHZhbHVlPSJFUzYiIC8+CiAgPC9jb21wb25lbnQ+CiAgPGNvbXBvbmVudCBuYW1lPSJKc0Jvd2VyU2V0dGluZ3MiPgogICAgPGV4ZS1wYXRoIC8+CiAgICA8Y29uZmlnLXBhdGggLz4KICA8L2NvbXBvbmVudD4KICA8Y29tcG9uZW50IG5hbWU9IkpzRmxvd1NldHRpbmdzIj4KICAgIDxzZXJ2aWNlLWVuYWJsZWQ+dHJ1ZTwvc2VydmljZS1lbmFibGVkPgogICAgPGV4ZS1wYXRoIC8+CiAgICA8YW5ub3RhdGlvbi1lbmFibGU+ZmFsc2U8L2Fubm90YXRpb24tZW5hYmxlPgogICAgPG90aGVyLXNlcnZpY2VzLWVuYWJsZWQ+dHJ1ZTwvb3RoZXItc2VydmljZXMtZW5hYmxlZD4KICA8L2NvbXBvbmVudD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8Y29tcG9uZW50IG5hbWU9IlByb2plY3RSb290TWFuYWdlciIgdmVyc2lvbj0iMiIgbGFuZ3VhZ2VMZXZlbD0iSkRLXzFfOCIgZGVmYXVsdD0iZmFsc2UiIHByb2plY3QtamRrLW5hbWU9IjEuOCIgcHJvamVjdC1qZGstdHlwZT0iSmF2YVNESyI+CiAgICA8b3V0cHV0IHVybD0iZmlsZTovLyRQUk9KRUNUX0RJUiQvb3V0IiAvPgogIDwvY29tcG9uZW50PgogIDxjb21wb25lbnQgbmFtZT0iVmFncmFudFByb2plY3RTZXR0aW5ncyI+CiAgICA8b3B0aW9uIG5hbWU9Imluc3RhbmNlRm9sZGVyIiB2YWx1ZT0iIiAvPgogICAgPG9wdGlvbiBuYW1lPSJwcm92aWRlciIgdmFsdWU9IiIgLz4KICA8L2NvbXBvbmVudD4KPC9wcm9qZWN0Pgo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>nohlsearch</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -114,6 +93,36 @@
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHVibGljIA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmdW4gbWFpbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgU3RyaW5nLiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgTWFpbiB7Cgp9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
