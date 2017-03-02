@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488495532370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1488432250220">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -83,7 +88,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnRsbigiSGVsbG8sIFdvcmxkISIpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -95,34 +100,34 @@
         <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnRsbigiSGVsbG8sIFdvcmxkISIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">dmFsIHggPSAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmdW4gbWFpbgo=</text>
+        <text encoding="base64">cHJpbnRsbih4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgU3RyaW5nLiAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbiB7Cgp9Cg==</text>
+        <text encoding="base64">ICBmdW4gbWFpbgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzEvMTcuCiAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -144,10 +149,10 @@
         <entry encoding="base64">bm9yZW1hcCA8c2lsZW50PiBqIGdq</entry>
         <entry>maps</entry>
         <entry encoding="base64">bm5vcmVtYXAgPHNpbGVudD4gPHNwYWNlPiB6YQ==</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
