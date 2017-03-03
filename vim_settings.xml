@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488516793459">
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488517812182">
         <mark key="g" line="90" column="40" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="54" />
-        <mark key="]" line="122" column="54" />
-        <mark key="." line="122" column="54" />
-        <mark key="^" line="122" column="54" />
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="160" column="37" />
+        <mark key="]" line="161" column="14" />
+        <mark key="." line="161" column="14" />
+        <mark key="^" line="161" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1488432250220">
         <mark key="'" line="0" column="0" />
@@ -116,10 +116,15 @@
       <jump line="126" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="117" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="144" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="143" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="78" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="157" column="20" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="36" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>differencejikbb</text>
+        <text>them as a tuple.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -128,7 +133,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>differencejikbb</text>
+        <text>them as a tuple.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -137,31 +142,31 @@
         <text encoding="base64">aXNQcmltZSgyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqIHNpbmdsZSBsb29wIGZyb20gMiB0byBmbG9vcihzcXJ0KG4pKSBhbmQgY2hlY2sgaWYKICAqLwoKLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSA3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwoKLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXNQcmltZQo=</text>
+        <text encoding="base64">UGFpcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbHNlIGlmIChuIDwgMCkK</text>
+        <text encoding="base64">dHlwZSBQYWlyID0gKEludCwgSW50KQoKUGFpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbHNlIGlmIChuIDwgMCkK</text>
+        <text encoding="base64">dHlwZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbHNlIGlmIChuID09IDEpIHRydWUKICBlbHNlIAo=</text>
+        <text encoding="base64">ZGVmIHJvbGxEaWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAqIEFuIGltcGxlbWVudGF0aW9uIG9mIAogICogQHBhcmFtIG4KICAqIEByZXR1cm4KICAqLwpkZWYgcGhpKG46IEludCk6IEludCA9ICgxIHRvIG4pLmNvdW50KGdjZChuLCBfKSA9PSAxKQoKcGhpKDkpCnBoaSgxMCkKCi8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqIFByb2JsZW0gOCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgogICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAqIHNpbmdsZSBsb29wIGZyb20gMiB0byBmbG9vcihzcXJ0KG4pKSBhbmQgY2hlY2sgaWYKICAqLwoKLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSA3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwoKLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXNQcmltZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
