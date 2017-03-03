@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488514760928">
-        <mark key="'" line="50" column="14" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488516793459">
         <mark key="g" line="90" column="40" />
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="72" column="22" />
-        <mark key="^" line="72" column="22" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="122" column="54" />
+        <mark key="]" line="122" column="54" />
+        <mark key="." line="122" column="54" />
+        <mark key="^" line="122" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1488432250220">
         <mark key="'" line="0" column="0" />
@@ -89,7 +89,6 @@
       <jump line="43" column="13" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" />
       <jump line="28" column="27" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" />
       <jump line="22" column="14" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="11" column="25" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="18" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="4" column="19" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="27" column="12" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
@@ -105,10 +104,22 @@
       <jump line="65" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="28" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="50" column="14" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="125" column="20" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="11" column="35" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="123" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="121" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="96" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="64" column="1" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="75" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="102" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="116" column="8" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="126" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="117" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWxsIG4g</text>
+        <text>differencejikbb</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -117,47 +128,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWxsIG4g</text>
+        <text>differencejikbb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSAzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwo=</text>
+        <text encoding="base64">aXNQcmltZSgyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIHNpbmdsZSBsb29wIGZyb20gMiB0byBmbG9vcihzcXJ0KG4pKSBhbmQgY2hlY2sgaWYKICAqLwoKLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSA3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwoKLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogICogUHJvYmxlbSA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAgKiBUbyBzdXBwb3J0CiAgKi8K</text>
+        <text encoding="base64">aXNQcmltZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhLmZvCg==</text>
+        <text encoding="base64">ICBlbHNlIGlmIChuIDwgMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhLnByb2R1Y3RJdGVyYXRvcgo=</text>
+        <text encoding="base64">ICBlbHNlIGlmIChuIDwgMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhLnByb2R1Y3RJdGVyYXRvcgo=</text>
+        <text encoding="base64">ICBlbHNlIGlmIChuID09IDEpIHRydWUKICBlbHNlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IDAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhLl8xIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>math.sqrt(
-  math.pow(a._1 - b._1, 2) +
-  math.pow(a._2 - b._2, 2) +
-  math.pow(a._3 - b._3, 2)
-)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -187,9 +194,9 @@
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
-        <entry>q</entry>
         <entry>redo</entry>
         <entry>set spell</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
