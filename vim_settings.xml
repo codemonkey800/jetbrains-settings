@@ -3,20 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488518548905">
-        <mark key="g" line="90" column="40" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="178" column="42" />
-        <mark key="]" line="178" column="55" />
-        <mark key="." line="178" column="55" />
-        <mark key="^" line="178" column="55" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/consoles.sc" timestamp="1488523244002">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1488432250220">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/app/test-app/app/src/test/java/jeremyasuncion/io/testapp/ExampleUnitTest.java" timestamp="1483239416654">
-        <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/app/test-app/app/build.gradle" timestamp="1483245806073">
         <mark key="'" line="25" column="0" />
@@ -27,6 +22,32 @@
       </file>
       <file name="/Scala Console" timestamp="1488432240825">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="24" column="73" />
+        <mark key="m" line="18" column="17" />
+        <mark key="]" line="24" column="73" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="24" column="73" />
+      </file>
+      <file name="/usr/lib/jvm/default/src.zip!/java/lang/IllegalArgumentException.java" timestamp="1488524000867" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" timestamp="1488431596740">
+        <mark key="'" line="15" column="27" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" timestamp="1488518548905">
+        <mark key="g" line="90" column="40" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="178" column="42" />
+        <mark key="]" line="178" column="55" />
+        <mark key="." line="178" column="55" />
+        <mark key="^" line="178" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/app/test-app/app/src/test/java/jeremyasuncion/io/testapp/ExampleUnitTest.java" timestamp="1483239416654">
+        <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/Main.scala" timestamp="1488440859987">
         <mark key="[" line="1" column="3" />
@@ -46,18 +67,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" timestamp="1488520279745">
-        <mark key="'" line="65" column="23" />
-        <mark key="[" line="69" column="7" />
-        <mark key="]" line="69" column="7" />
-        <mark key="." line="69" column="7" />
-        <mark key="^" line="85" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" timestamp="1488431596740">
-        <mark key="'" line="15" column="27" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" timestamp="1488521630560">
+        <mark key="'" line="91" column="16" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1488432252908">
         <mark key="[" line="0" column="0" />
@@ -149,13 +164,24 @@
       <jump line="63" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="71" column="8" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="60" column="21" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="66" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="65" column="23" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="85" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="76" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="69" column="7" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="98" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="91" column="16" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
+      <jump line="20" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" />
+      <jump line="38" column="16" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" />
+      <jump line="36" column="51" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" />
+      <jump line="47" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -164,45 +190,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWtXb3JkKCkK</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBwYXJzZUFyZyh0b2tlbnMoMSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGxpbmUgPSBpby5TdGRJbi5yZWFkTGluZSgiLT4gIikKICAgICAgdmFsIHJlc3VsdCA9IGV4ZWN1dGUobGluZSkKICAgICAgaWYgKHJlc3VsdCAhPSBudWxsKSBwcmludGxuKHJlc3VsdCkK</text>
       </register>
-      <register name="2" type="4">
-        <text>String = s + s.reverse()
-
-mkPal(&quot;mars&quot;)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIHsKICAgICAgY2FzZSBlOiBJbnZhbGlkQ29tbWFuZEV4Y2VwdGlvbiA9PiBwcmludGxuKCJVbnJlY29nbml6ZWQgY29tbWFuZDogIiArIGUuZ2V0TWVzc2FnZSkKICAgICAgY2FzZSBlOiBJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24gPT4gcHJpbnRsbigiSW52YWxpZCBhcmd1bWVudDogIiArIGUuZ2V0TWVzc2FnZSkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzLnJlcGxhY2UoIiwiLCAiIikKICAgLnJlcGxhY2UoIi4iLCAiIikKICAgLnJlcGxhY2UoIiEiLCAiIikKICAgLnJlcGxhY2UoIiAiLCAiIikKICAgLnJlcGxhY2UoIjsiLCAiIikK</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICB2YWwgbGluZSA9IGlvLlN0ZEluLnJlYWRMaW5lKCItPiAiKQogICAgICAgIHZhbCByZXN1bHQgPSBleGVjdXRlKGxpbmUpCiAgICAgICAgaWYgKHJlc3VsdCAhPSBudWxsKSBwcmludGxuKHJlc3VsdCkKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzLnJlcGxhY2UoJycpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIChjbWQgbWF0Y2ggewogICAgICBjYXNlICJhZGQiID0+CiAgICAgIGNhc2UgIm11bCIgPT4KICAgICAgY2FzZSAic3ViIiA9PgogICAgICBjYXNlICJkaXYiID0+IAogICAgICBjYXNlICJoZWxwIiA9PiAiY29tbWFuZHM6IGFkZCwgbXVsLCBzdWIsIGRpdiwgcXVpdCwgaGVscCIKICAgICAgY2FzZSAicXVpdCIgPT4gcHJpbnRsbigiYnllIik7IFN5c3RlbS5leGl0KDApCiAgICB9KS50b1N0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgdG1wID0gcy5yZXBsYWNlKCcuJywgJ1wwJykK</text>
+        <text encoding="base64">ICAgIGlmICghdmFsaWRDb21tYW5kcy5jb250YWlucyhjbWQpKSB0aHJvdyBuZXcgSW52YWxpZENvbW1hbmRFeGNlcHRpb24oY21kKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0bXAgPSB0bXAucmVwbGFjZSgnLCcsICdcMCcpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBwYXJzZUFyZygpCiAgICAgIHZhbCBrawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgdG1wID0gcy5yZXBsYWNlKCcuJywgJ1wwJykKICB0bXAgPSB0bXAucmVwbGFjZSgnLCcsICdcMCcpCg==</text>
+        <text encoding="base64">ICAgICAgdG9rZW5zKGluZGV4KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -217,9 +241,6 @@ mkPal(&quot;mars&quot;)</text>
         <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
-        <entry>za</entry>
-        <entry encoding="base64">bm9yZW1hcCBvIG88ZXNjPms=</entry>
         <entry encoding="base64">bm9yZW1hcCA8c2lsZW50PiBIIF4=</entry>
         <entry encoding="base64">bm9yZW1hcCA8c2lsZW50PiBrIGdr</entry>
         <entry encoding="base64">bm5vcmVtYXAgPHNpbGVudD4gVSA6cmVkbzxDUj4=</entry>
@@ -232,9 +253,14 @@ mkPal(&quot;mars&quot;)</text>
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
-        <entry>redo</entry>
         <entry>set spell</entry>
+        <entry>sort</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPGxlYWRlcj5zIDpzb3J0PENSPg==</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist sort</entry>
         <entry>q</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
