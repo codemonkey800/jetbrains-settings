@@ -23,12 +23,25 @@
       <file name="/Scala Console" timestamp="1488432240825">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/environment.scala" timestamp="1489519871257">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/3/src/session.sc" timestamp="1488531491799">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="117" column="37" />
         <mark key="]" line="117" column="40" />
         <mark key="." line="117" column="40" />
         <mark key="^" line="117" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" timestamp="1489520686275">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="21" column="90" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="97" />
+        <mark key="^" line="21" column="97" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
         <mark key="'" line="61" column="0" />
@@ -94,22 +107,18 @@
         <mark key="." line="89" column="16" />
         <mark key="^" line="89" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1488432252908">
+      <file name="/fragment.java" timestamp="1489519906218">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" timestamp="1489520554570">
+        <mark key="'" line="2" column="30" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="13" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" />
-      <jump line="28" column="27" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/.idea/misc.xml" />
-      <jump line="22" column="14" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="18" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="4" column="19" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="27" column="12" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="57" column="16" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="68" column="26" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="67" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="14" column="21" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="63" column="24" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="70" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="46" column="12" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="54" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
@@ -199,10 +208,21 @@
       <jump line="184" column="17" filename="$USER_HOME$/src/node/jeremyasuncion.io/webpack.config.ts" />
       <jump line="49" column="33" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/.idea/misc.xml" />
       <jump line="0" column="37" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/.idea/misc.xml" />
+      <jump line="0" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
+      <jump line="30" column="22" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/environment.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/environment.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" />
+      <jump line="2" column="30" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" />
+      <jump line="5" column="31" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
+      <jump line="7" column="25" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
+      <jump line="8" column="23" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>content</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -211,7 +231,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -220,31 +240,31 @@
         <text encoding="base64">Y2hvb3NlKDMsIDkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8Y29tcG9uZW50IG5hbWU9IlZhZ3JhbnRQcm9qZWN0U2V0dGluZ3MiPgogICAgPG9wdGlvbiBuYW1lPSJpbnN0YW5jZUZvbGRlciIgdmFsdWU9IiIgLz4KICAgIDxvcHRpb24gbmFtZT0icHJvdmlkZXIiIHZhbHVlPSIiIC8+CiAgPC9jb21wb25lbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8Y29tcG9uZW50IG5hbWU9IkphdmFTY3JpcHRTZXR0aW5ncyI+CiAgICA8b3B0aW9uIG5hbWU9Imxhbmd1YWdlTGV2ZWwiIHZhbHVlPSJFUzYiIC8+CiAgPC9jb21wb25lbnQ+CiAgPGNvbXBvbmVudCBuYW1lPSJKc0Jvd2VyU2V0dGluZ3MiPgogICAgPGV4ZS1wYXRoIC8+CiAgICA8Y29uZmlnLXBhdGggLz4KICA8L2NvbXBvbmVudD4KICA8Y29tcG9uZW50IG5hbWU9IkpzRmxvd1NldHRpbmdzIj4KICAgIDxzZXJ2aWNlLWVuYWJsZWQ+dHJ1ZTwvc2VydmljZS1lbmFibGVkPgogICAgPGV4ZS1wYXRoIC8+CiAgICA8YW5ub3RhdGlvbi1lbmFibGU+ZmFsc2U8L2Fubm90YXRpb24tZW5hYmxlPgogICAgPG90aGVyLXNlcnZpY2VzLWVuYWJsZWQ+dHJ1ZTwvb3RoZXItc2VydmljZXMtZW5hYmxlZD4KICA8L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">cGFja2FnZSBhbW9lYmEK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBhbW9lYmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIElubGluZSB0aGUgYXNzZXQgbWFuaWZlc3QKICAgIG5ldyBJbmxpbmVNYW5pZmVzdFBsdWdpbigpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHF1ZXJ5OiB7CgogICAgICAgICAgfSwK</text>
+        <text encoding="base64">Y2xhc3MgVmFyaWFibGUodmFyIGNvbnRlbnQ6IEludCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFiZWxyYzogZmFsc2UsCiAgICAgICAgICAgIGNhY2hlRGlyZWN0b3J5OiB0cnVlLAogICAgICAgICAgICBwcmVzZXRzOiBbCiAgICAgICAgICAgICAgWydsYXRlc3QnLCB7ZXMyMDE1OiB7bW9kdWxlczogZmFsc2V9fV0sCiAgICAgICAgICAgICAgJ3N0YWdlLTAnLAogICAgICAgICAgICAgICdyZWFjdCcsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIHBsdWdpbnM6IFsKICAgICAgICAgICAgICAndHJhbnNmb3JtLWRlY29yYXRvcnMtbGVnYWN5JywKICAgICAgICAgICAgICAncmVhY3QtaG90LWxvYWRlci9iYWJlbCcsCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzE0LzE3LgogICovCm9iamVjdCBlbnZpcm9ubWVudCB7Cgp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHF1ZXJ5OiB7CiAgICAgICAgICAgIGJhYmVscmM6IGZhbHNlLAogICAgICAgICAgICBjYWNoZURpcmVjdG9yeTogdHJ1ZSwKICAgICAgICAgICAgcHJlc2V0czogWwogICAgICAgICAgICAgIFsnbGF0ZXN0Jywge2VzMjAxNToge21vZHVsZXM6IGZhbHNlfX1dLAogICAgICAgICAgICAgICdzdGFnZS0wJywKICAgICAgICAgICAgICAncmVhY3QnLAogICAgICAgICAgICBdLAogICAgICAgICAgICBwbHVnaW5zOiBbCiAgICAgICAgICAgICAgJ3RyYW5zZm9ybS1kZWNvcmF0b3JzLWxlZ2FjeScsCiAgICAgICAgICAgICAgJ3JlYWN0LWhvdC1sb2FkZXIvYmFiZWwnLAogICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiAzLzE0LzE3LgogICovCm9iamVjdCBwcm9jZXNzb3IgewoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8Y29tcG9uZW50IG5hbWU9IlZhZ3JhbnRQcm9qZWN0U2V0dGluZ3MiPgogICAgPG9wdGlvbiBuYW1lPSJpbnN0YW5jZUZvbGRlciIgdmFsdWU9IiIgLz4KICAgIDxvcHRpb24gbmFtZT0icHJvdmlkZXIiIHZhbHVlPSIiIC8+CiAgPC9jb21wb25lbnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -279,8 +299,8 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>actionlist</entry>
         <entry>actionlist sort</entry>
-        <entry>redo</entry>
         <entry>actionlist hover</entry>
+        <entry>redo</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
