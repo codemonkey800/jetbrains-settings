@@ -110,12 +110,12 @@
       <file name="/fragment.java" timestamp="1489519906218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" timestamp="1489520554570">
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/Environment.scala" timestamp="1489551239143">
         <mark key="'" line="2" column="30" />
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="43" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+        <mark key="^" line="12" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -222,7 +222,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -231,7 +231,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
