@@ -36,13 +36,6 @@
         <mark key="." line="117" column="40" />
         <mark key="^" line="117" column="40" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" timestamp="1489520686275">
-        <mark key="'" line="8" column="23" />
-        <mark key="[" line="21" column="90" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="97" />
-        <mark key="^" line="21" column="97" />
-      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="24" column="73" />
@@ -119,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="46" column="12" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="54" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="79" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
@@ -219,6 +211,7 @@
       <jump line="5" column="31" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
       <jump line="7" column="25" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
       <jump line="8" column="23" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
