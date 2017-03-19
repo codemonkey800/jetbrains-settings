@@ -43,12 +43,11 @@
         <mark key="." line="74" column="19" />
         <mark key="^" line="74" column="23" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489917730233">
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489953974678">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="127" column="45" />
-        <mark key="]" line="128" column="1" />
-        <mark key="." line="128" column="1" />
-        <mark key="^" line="128" column="1" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
         <mark key="'" line="61" column="0" />
@@ -250,28 +249,28 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKgogICogSGVscGVyIEZ1bmN0aW9ucyAqCiAgKioqKioqKioqKioqKioqKioqKiovCgpkZWYgdGVzdE91dHB1dFtUXShleHBlY3RlZDogVCwgYWN0dWFsOiBULCBtZXNzYWdlOiBTdHJpbmcpCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwb3cK</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKgogICogSGVscGVyIEZ1bmN0aW9ucyAqCiAgKioqKioqKioqKioqKioqKioqKiovCgpkZWYgdGVzdE91dHB1dFtUXShleHBlY3RlZDogVCwgYWN0dWFsOiBULCBtZXNzYWdlOiBTdHJpbmcpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXRoLnBvdwo=</text>
+        <text encoding="base64">ICBwb3cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzY2FsYS5tYXRoLnBvCg==</text>
+        <text encoding="base64">ICBtYXRoLnBvdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cG9wdWxhdGlvbkdyb3duKCkK</text>
+        <text encoding="base64">ICBzY2FsYS5tYXRoLnBvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9wdWxhdGlvbkdyb3duKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cG9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
