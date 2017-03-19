@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'amoeba'" />
-    <option name="defaultScopeName" value="Project 'amoeba'" />
-    <option name="SEARCH_SCOPE" value="Project 'amoeba'" />
+    <option name="customScope" value="File '[Functional Programming] - .../src/session.sc'" />
+    <option name="defaultScopeName" value="File '[Functional Programming] - .../src/session.sc'" />
+    <option name="SEARCH_SCOPE" value="File '[Functional Programming] - .../src/session.sc'" />
   </component>
 </application>

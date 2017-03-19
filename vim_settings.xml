@@ -43,12 +43,11 @@
         <mark key="." line="74" column="19" />
         <mark key="^" line="74" column="23" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489906289476">
-        <mark key="'" line="41" column="3" />
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="41" />
-        <mark key="." line="47" column="41" />
-        <mark key="^" line="47" column="41" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489908929920">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
         <mark key="'" line="61" column="0" />
@@ -126,11 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="102" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="116" column="8" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="126" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
-      <jump line="117" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="144" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="143" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
       <jump line="78" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/session.sc" />
@@ -222,14 +216,19 @@
       <jump line="63" column="5" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
       <jump line="74" column="21" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/amoeba/src/processor.scala" />
       <jump line="4" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
-      <jump line="23" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
-      <jump line="24" column="21" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
       <jump line="19" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
       <jump line="41" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="56" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="37" column="1" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="38" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="24" column="36" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="22" column="19" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="23" column="18" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -238,7 +237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29tcG9zZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -247,31 +246,31 @@
         <text encoding="base64">dHJpcGxlKHNxdWFyZSgyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">dmFsIGNvbXBvc2UgPSBmIF8gY29tcG9zZSBnIF8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFsIGNvbXBvc2VbVCBdCgpkZWYgdHJpcGxlKHg6IEludCkgPSB4ICogMwpkZWYgc3F1YXJlKHg6IEludCkgPSB4ICogeAoKdHJpcGxlKHNxdWFyZSgyKSkKc3F1YXJlKHRyaXBsZSgyKSkKCnZhbCBmID0gY29tcG9zZShzcXVhcmUsIHRyaXBsZSkKdmFsIGcgPSBjb21wb3NlKHRyaXBsZSwgc3F1YXJlKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">c3F1YXJlKDIpCg==</text>
+        <text encoding="base64">ICBkZWYgaGVscGVyKGFyZzogVCkgPSB7IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZiA9IGNvbXBvcwo=</text>
+        <text encoding="base64">ICBmKGcoXykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3F1YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3F1YQo=</text>
+        <text encoding="base64">dHlwZSBDb21wb3NhYmxlW1RdID0gVCA9PiBUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJpcGwK</text>
+        <text encoding="base64">ICAqIEB0cGFyYW0gViBUaGUgdHlwZSBvZiB0aGUgcmV0dXJuIHZhbHVlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGRvdWJsZSh4OiBJbnQpID0geCAqIDIK</text>
+        <text encoding="base64">ICBoZWxwZXIgXwo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
