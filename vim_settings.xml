@@ -43,12 +43,12 @@
         <mark key="." line="74" column="19" />
         <mark key="^" line="74" column="23" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489957139343">
-        <mark key="'" line="20" column="2" />
-        <mark key="[" line="149" column="49" />
-        <mark key="]" line="149" column="49" />
-        <mark key="." line="149" column="49" />
-        <mark key="^" line="149" column="49" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489968535236">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
         <mark key="'" line="61" column="0" />
@@ -126,11 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
-      <jump line="11" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/math.sc" />
-      <jump line="43" column="40" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
-      <jump line="38" column="40" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
-      <jump line="53" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="54" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="13" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
       <jump line="59" column="1" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/strings.sc" />
@@ -226,10 +221,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
       <jump line="122" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
       <jump line="18" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="152" column="10" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="154" column="35" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="177" column="21" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="90" column="25" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
+      <jump line="88" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50aWlhbCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFsIGYgPSBjb21wb3NlKHRyaXBsZSwgc3F1YXJlKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -238,41 +238,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50aWlhbCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cG9wdWxhdGlvbkdyb3duKDEwLCAyMDAwKQo=</text>
+        <text encoding="base64">dmFsIGcgPSBjb21wb3NlKHRyaXBsZSwgc3F1YXJlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGYgPSBjb21wb3NlKHRyaXBsZSwgc3F1YXJlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIGcgPSBjb21wb3NlKHRyaXBsZSwgc3F1YXJlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBGaW5kcyB0aGUgZGVyaXZhdGl2ZSBvZiBhIGZ1bmN0aW9uIGYgYXQgc29tZSBwb2ludCB4CiAgKiBmb3Igc29tZSBkZWx0YVguCiAgKgogICogQHBhcmFtIGYgVGhlIGZ1bmN0aW9uLgogICogQHBhcmFtIHggVGhlIHBvaW50IHRvIGZpbmQgdGhlIGRlcml2YXRpdmUgYXQuCiAgKiBAcGFyYW0gZGVsdGFYIFRoZSBtaW5pbXVtIGRpZmZlcmVuY2UgdG8gdXNlLgogICovCmRlZiBkZXJpdmF0aXZlKAogIGY6IENvbXBvc2FibGVbRG91YmxlXSwKICB4OiBEb3VibGUsCiAgZGVsdGFYOiBEb3VibGUgPSBERUZBVUxUX0RFTFRBX1gKKSA9IAo=</text>
+        <text encoding="base64">dmFyIGV2ZW5zID0gMAp2YXIgb2RkcyA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqIAo=</text>
+        <text encoding="base64">cHJpbnRsbihzIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IC8qIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>Int
-Int</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGRlcml2YXRpdmUoZjogRG91YmxlID0+IERvdWJsZSkK</text>
+        <text encoding="base64">KDEgdG8gMTApLnRvQXJyYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y291bnRQYXNzKDEgdG8gMTAsIHggPT4geCAlIDIgPT0gMCkK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
