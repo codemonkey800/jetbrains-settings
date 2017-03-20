@@ -43,12 +43,12 @@
         <mark key="." line="74" column="19" />
         <mark key="^" line="74" column="23" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489968535236">
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" timestamp="1489992439823">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="31" />
-        <mark key="^" line="22" column="13" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="171" column="18" />
+        <mark key="^" line="171" column="18" />
+        <mark key="." line="171" column="18" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/labs/2/src/console.scala" timestamp="1488525958793">
         <mark key="'" line="61" column="0" />
@@ -228,8 +228,8 @@
       <jump line="88" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/functional-programming/src/session.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFsIGYgPSBjb21wb3NlKHRyaXBsZSwgc3F1YXJlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>, cycle: Int</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -238,7 +238,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, cycle: Int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
