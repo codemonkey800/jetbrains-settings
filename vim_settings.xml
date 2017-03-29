@@ -9,11 +9,11 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490754845117">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490760232149">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/src/java/derp/.gitignore" timestamp="1490752495591">
         <mark key="[" line="64" column="0" />
@@ -24,49 +24,52 @@
     </filemarks>
     <jumps>
       <jump line="16" column="2" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="8" column="34" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="10" column="35" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="13" column="20" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="2" column="10" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oAyR7cGFyc2VDb2xvcigiR3JlZW4iKX0DKQogICAgcHJpbnRsbigke3BhcnNlQ29sb3IoIkJsdWUiKX0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4odXNlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW9uCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obmFtZSwgYWdlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdlcm1zLgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4odXNlcikKICAgIHByaW50bG4odXNlci50b1N0cmluZygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNheVNvbWV0aGluZwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUGVyc29uKG5hbWU6IFN0cmluZywgYWdlOiBJbnQpIHsKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dHlwZWFsaWFzIFByb3BlcnRpZXMgPSBNYXA8U3RyaW5nLCBBbnk/PgoKY2xhc3MgVXNlcih2YWwgcHJvcGVydGllczogUHJvcGVydGllcykgewogICAgdmFsIG5hbWU6IFN0cmluZyBieSBwcm9wZXJ0aWVzCiAgICB2YWwgYWdlOiBJbnQgYnkgcHJvcGVydGllcwp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCB1c2VyID0gVXNlcihtYXBPZigKICAgICAgICAibmFtZSIgdG8gIkplcmVteSBBc3VuY2lvbiIsCiAgICAgICAgImFnZSIgdG8gMjAKICAgICkpCgogICAgcHJpbnRsbih1c2VyLm5hbWUpCiAgICBwcmludGxuKHVzZXIuYWdlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHZhbCAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIGludGVncmF0ZShmdW5jOiBNYXRoRnVuYywgcmFuZ2U6IEludFJhbik6IERvdWJsZSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -105,6 +108,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
