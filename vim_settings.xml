@@ -12,6 +12,9 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/src/java/web/web/index.html" timestamp="1490762139685">
+        <mark key="'" line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/src/java/derp/build.gradle" timestamp="1490752025771">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="23" />
@@ -23,11 +26,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/web/src/main.kt" timestamp="1490761120863">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
+      <file name="$USER_HOME$/src/java/web/src/main.kt" timestamp="1490762261591">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/derp/.gitignore" timestamp="1490752495591">
         <mark key="[" line="64" column="0" />
@@ -35,16 +37,18 @@
         <mark key="^" line="64" column="5" />
         <mark key="." line="64" column="5" />
       </file>
-      <file name="$USER_HOME$/src/java/web/build.gradle" timestamp="1490760955946">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
+      <file name="$USER_HOME$/src/java/web/build.gradle" timestamp="1490762548026">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+        <mark key="^" line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/src/java/web/src/main/kotlin/main.kt" timestamp="1490760720524">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/java/web/src/main/kotlin/main.kt" timestamp="1490762648207">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -60,45 +64,46 @@
       <jump line="8" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="17" column="33" filename="$USER_HOME$/src/java/web/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/src/java/web/src/Customer.kt" />
+      <jump line="9" column="6" filename="$USER_HOME$/src/java/web/web/index.html" />
+      <jump line="17" column="6" filename="$USER_HOME$/src/java/web/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc2V0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>mavenCentral</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>mavenCentral</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc2V0KCkK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2F6YWRldi5rb3RsaW46YXphLWtvdGxpbi1jc3M6MS4wJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgamVyZW15IG9uIDMvMjgvMTcuCiAqLwpjbGFzcyBDdXN0b21lciB7Cn0K</text>
+        <text encoding="base64">ICAgIHZhbCBjc3MgPSBTdHlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgamVyZW15IG9uIDMvMjgvMTcuCiAqLwo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1haW4ua290bGluLnNyY0RpcnMgPSBbJ3NyYyddCiAgICB0ZXN0LmtvdGxpbi5zcmNEaXJzID0gWydzcmMnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1haW4ua290bGluLnRlc3REaXJzID0gWyd0ZXN0J10K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">c291cmNlU2V0cyB7CiAgICBtYWluIHsKICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICBqYXZhLnNyY0RpcnMgPSBbXQogICAgICAgIHJlc291cmNlcy5zcmNEaXJzID0gW10KICAgIH0KICAgIHRlc3QgewogICAgICAgIGtvdGxpbi5zcmNEaXJzID0gW10KICAgICAgICBqYXZhLnNyY0RpcnMgPSBbXQogICAgICAgIHJlc291cmNlcy5zcmNEaXJzID0gW10KICAgIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqZXJlbXkgb24gMy8yOC8xNy4K</text>
+        <text encoding="base64">ICAgIHZhbCBjc3MgPSBTdHlsZXNqa2RkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -111,9 +116,9 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5ub3JtIHlzd2wp</entry>
         <entry>sort</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -138,7 +143,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -146,6 +151,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
