@@ -15,6 +15,24 @@
       <file name="$USER_HOME$/src/java/web/web/index.html" timestamp="1490762139685">
         <mark key="'" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/java/app/build.gradle" timestamp="1490791880571">
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1490791813179">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/src/java/derp/build.gradle" timestamp="1490752025771">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="23" />
@@ -78,40 +96,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuIG1haW4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>navigator</text>
+        <text encoding="base64">YSA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIG1haW4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqZXJlbXkgb24gMy8yOS8xNy4KICovCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2F6YWRldi5rb3RsaW46YXphLWtvdGxpbi1jc3M6MS4wJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBjc3MgPSBTdHlsZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlcmppa2RkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGF0YSBjbGFzcyBOYW1lKHZhbCBmaXJzdDogU3RyaW5nLCB2YWwgbGFzdDogU3RyaW5nKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbmFtZSA9IE5hbWUoZmFrZXIubmFtZSgpLikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1c2Vycy5hZGQoVSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmYWtlciA9IEZha2VyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
