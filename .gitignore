@@ -60,7 +60,6 @@ fabric.properties
 # End of https://www.gitignore.io/api/jetbrains
 
 # Some files to keep out of the backup
-_linux/
 scala.xml
 web-browsers.xml
 
