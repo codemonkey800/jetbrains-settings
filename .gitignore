@@ -64,3 +64,6 @@ _linux/
 scala.xml
 web-browsers.xml
 
+# Secret files
+access-token
+
