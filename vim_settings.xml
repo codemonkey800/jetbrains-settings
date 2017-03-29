@@ -2,14 +2,116 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/src/java/derp/build.gradle" timestamp="1490752025771">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490753690840">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/java/derp/.gitignore" timestamp="1490752495591">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="5" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="64" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="2" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="8" column="34" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="10" column="35" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="13" column="20" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSBGaWxlcy5uZXcK</text>
+      </register>
+      <register name="-" type="4">
+        <text>share</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oAyR7cGFyc2VDb2xvcigiR3JlZW4iKX0DKQogICAgcHJpbnRsbigke3BhcnNlQ29sb3IoIkJsdWUiKX0pCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdHJlYW0gPSBGaWxlcy5uZXcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Y2xhc3MgSW1hZ2UgewogICAgZGF0YSBjbGFzcyBWZWN0b3IodmFsIHg6IERvdWJsZSwgdmFsIHk6IERvdWJsZSkKICAgIGZ1biBzY2FsZShkdjogVmVjdG9yKSB7fQogICAgZnVuIHNoZWFyKGR2OiBWZWN0b3IpIHt9CiAgICBmdW4gdHJhbnNmb3JtKGR2OiBWZWN0b3IpIHt9Cn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBpbWFnZSA9IEltYWdlKCkKICAgIHdpdGgoaW1hZ2UpIHsKICAgICAgICB2YWwgdmVjID0gSW1hZ2UuVmVjdG9yKDEwLjAsIDEwLjApCiAgICAgICAgc2NhbGUodmVjKQogICAgICAgIHNoZWFyKHZlYykKICAgICAgICB0cmFuc2Zvcm0odmVjKQogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzY2FsZShWZWN0b3IoKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGZ1biBzaGVhcihkdjogVmVjdG9yKSB7fQogICAgZnVuIHNjYWxlKGR2OiBWZWN0b3IpIHt9CiAgICBmdW4gdHJhbnNmb3JtKGR2OiBWZWN0b3IpIHt9</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5ub3JtIHlzd2wp</entry>
+        <entry>sort</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
