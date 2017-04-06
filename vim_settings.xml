@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491440242973">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491473916553">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="/GDB" timestamp="1491440246828">
         <mark key="[" line="0" column="0" />
@@ -31,11 +31,11 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/CMakeLists.txt" timestamp="1491471371370">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/CMakeLists.txt" timestamp="1491471382701">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490760407272">
         <mark key="[" line="0" column="0" />
@@ -94,17 +94,17 @@
       <jump line="2" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>REQUIRED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIikK</text>
       </register>
       <register name="-" type="4">
-        <text>REQUIRED</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2RkCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -113,22 +113,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbgo=</text>
+        <text encoding="base64">c2VtX3Qgc3R1ZGVudHMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHN1ZG9rdSBUaHJlYWRzOjpUaHJlYWRzKQo=</text>
+        <text encoding="base64">Ly8gbXV0ZXggCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0KFRIUkVBRFNfUFJFRkVSX1BUSFJFQURfRkxBRyBPTikK</text>
+        <text encoding="base64">a2RkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKFRocmVhZHMgUkVRVUlSRUQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIG1haW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
