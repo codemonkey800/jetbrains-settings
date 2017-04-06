@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491473916553">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="51" />
-        <mark key="^" line="15" column="51" />
-        <mark key="." line="15" column="51" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491478413452">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/GDB" timestamp="1491440246828">
         <mark key="[" line="0" column="0" />
@@ -95,40 +94,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIikK</text>
+        <text encoding="base64">ICAgLyAK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIikK</text>
+        <text encoding="base64">ICAgLyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVycm9yKCJVbmFiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VtX3Qgc3R1ZGVudHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gbXV0ZXggCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2RkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghcHRocmVhZF9jcmVhdGUoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
