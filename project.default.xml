@@ -1,61 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerWorkspaceConfiguration">
-        <option name="PARALLEL_COMPILATION" value="true" />
-      </component>
-      <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <version value="1.0" />
-      </component>
-      <component name="JavaScriptSettings">
-        <option name="languageLevel" value="ES6" />
-      </component>
-      <component name="JsBowerSettings">
-        <exe-path />
-        <config-path />
-      </component>
-      <component name="JsFlowSettings">
-        <service-enabled>true</service-enabled>
-        <exe-path />
-        <annotation-enable>false</annotation-enable>
-        <other-services-enabled>true</other-services-enabled>
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="jeremy" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>AngularJS</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectResources">
-        <xml-schema-version>XMLSchema_1_1</xml-schema-version>
-      </component>
-      <component name="ProjectRootManager" version="2" default="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-        <property name="android.project.structure.last.selected" value="SDK Location" />
-        <property name="android.project.structure.proportion" value="0.15" />
-        <property name="node.js.path.for.package.eslint" value="project" />
-        <property name="node.js.selected.package.eslint" value="" />
-        <property name="node.js.path.for.package.standard" value="project" />
-        <property name="node.js.selected.package.standard" value="" />
-        <property name="HbShouldOpenHtmlAsHb" value="" />
-        <property name="JavaScriptPreferStrict" value="false" />
-        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
@@ -64,42 +9,57 @@
           <module />
           <method />
         </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+        </configuration>
         <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
-      </component>
-      <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="" />
-        <option name="provider" value="" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="Copyright.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
