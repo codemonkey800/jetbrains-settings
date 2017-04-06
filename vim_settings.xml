@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491484818102">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="129" column="107" />
-        <mark key="]" line="129" column="108" />
-        <mark key="^" line="129" column="108" />
-        <mark key="." line="129" column="108" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491487153370">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="124" column="88" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="/GDB" timestamp="1491440246828">
         <mark key="[" line="0" column="0" />
@@ -93,43 +93,46 @@
       <jump line="64" column="8" filename="$USER_HOME$/src/java/derp/.gitignore" />
       <jump line="2" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
       <jump line="87" column="8" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
+      <jump line="145" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
+      <jump line="160" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRpbmdfc3R1ZGVudHMrKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdGhyZWFkX211dGV4X2xvY2soJm11dGV4X2xvY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWNxdWlyZSBsb2NrIHRvIGluY3JlbWVudCB3YWl0aW5nIHN0dWRlbnRzCiAgICAgICAgICAgIHB0aHJlYWRfbXV0ZXhfbG9jaygmbXV0ZXhfbG9jayk7CiAgICAgICAgICAgIHdhaXRpbmdfc3R1ZGVudHMrKzsKICAgICAgICAgICAgcHRocmVhZF9tdXRleF91bmxvY2soJm11dGV4X2xvY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRpbmdfc3R1ZGVudHMrKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHBvcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCogdGFfaGFuZGxlcih2b2lkKiBkYXRhKSB7CiAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgIC8vIGZpbmQgb3V0IGlmIHRoZXJlIGFyZSBhbnkgd2FpdGluZyBzdHVkZW50cwogICAgICAgIGludCBzaXR0aW5nX3N0dWRlbnRzOwogICAgICAgIHNlbV9nZXR2YWx1ZSgmc3R1ZGVudHNfc2VtLCAmc2l0dGluZ19zdHVkZW50cyk7CgogICAgICAgIC8vIHRha2UgYSBuYXAgc2luY2Ugbm8gb25lIGlzIGhlcmUKICAgICAgICBpZiAoc2l0dGluZ19zdHVkZW50cyA9PSAwKSBzZW1fd2FpdCgmc3R1ZGVudHNfc2VtKTsKCiAgICAgICAgLy8gcHJpbnQgb3V0IHN0dWRlbnQgYmVpbmcgaGVscGVkIGFuZCB3YWl0aW5nIHN0dWRlbnRzCiAgICAgICAgcHRocmVhZF9tdXRleF9sb2NrKCZtdXRleF9sb2NrKTsKICAgICAgICBwcmludGYoIkhlbHBpbmcgYSBzdHVkZW50IGZvciAlZCBzZWNvbmRzLCAjIG9mIHdhaXRpbmcgc3R1ZGVudHMgPSAlZFxuIiwgTUFYX1NMRUVQX1RJTUUsIHdhaXRpbmdfc3R1ZGVudHMpOwogICAgICAgIHB0aHJlYWRfbXV0ZXhfdW5sb2NrKCZtdXRleF9sb2NrKTsKCiAgICAgICAgc2xlZXAoTUFYX1NMRUVQX1RJTUUpOwogICAgICAgIHNlbV9wb3N0KCZ0YV9zZW0pOwogICAgfQp9CgojcHJhZ21hIGNsYW5nIGRpYWdub3N0aWMgcG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWNxdWlyZSBsb2NrIHRvIHJlYWQgdmFyaWFibGUKICAgICAgICAgICAgcHRocmVhZF9tdXRleF9sb2NrKCZtdXRleF9sb2NrKTsKICAgICAgICAgICAgaW50IHNpdHRpbmdfc3R1ZGVudHMgPSB3YWl0aW5nX3N0dWRlbnRzOwogICAgICAgICAgICBwdGhyZWFkX211dGV4X3VubG9jaygmbXV0ZXhfbG9jayk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWNxdWlyZSBsb2NrIHRvIHJlYWQgdmFyaWFibGUKICAgICAgICAgICAgcHRocmVhZF9tdXRleF9sb2NrKCZtdXRleF9sb2NrKTsKICAgICAgICAgICAgaW50IHNpdHRpbmdfc3R1ZGVudHMgPSB3YWl0aW5nX3N0dWRlbnRzOwogICAgICAgICAgICBwdGhyZWFkX211dGV4X3VubG9jaygmbXV0ZXhfbG9jayk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">I3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIHB1c2gKI3ByYWdtYSBjbGFuZyBkaWFnbm9zdGljIGlnbm9yZWQgIi1XbWlzc2luZy1ub3JldHVybiIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2FpdGluZ19zdHVkZW50cysrOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoTUFYX1NMRUVQX1RJTUUpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQK</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgTlVNX09GX0hFTFBTOyArK2kpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBOVUxMCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -195,6 +198,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
