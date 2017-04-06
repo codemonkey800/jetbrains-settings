@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491478413452">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" timestamp="1491484818102">
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="129" column="107" />
+        <mark key="]" line="129" column="108" />
+        <mark key="^" line="129" column="108" />
+        <mark key="." line="129" column="108" />
       </file>
       <file name="/GDB" timestamp="1491440246828">
         <mark key="[" line="0" column="0" />
@@ -91,43 +92,44 @@
       <jump line="17" column="6" filename="$USER_HOME$/src/java/web/build.gradle" />
       <jump line="64" column="8" filename="$USER_HOME$/src/java/derp/.gitignore" />
       <jump line="2" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
+      <jump line="87" column="8" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRpbmdfc3R1ZGVudHMrKzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>k</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBwdGhyZWFkX211dGV4X2xvY2soJm11dGV4X2xvY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRpbmdfc3R1ZGVudHMrKzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVycm9yKCJVbmFiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWNxdWlyZSBsb2NrIHRvIHJlYWQgdmFyaWFibGUKICAgICAgICAgICAgcHRocmVhZF9tdXRleF9sb2NrKCZtdXRleF9sb2NrKTsKICAgICAgICAgICAgaW50IHNpdHRpbmdfc3R1ZGVudHMgPSB3YWl0aW5nX3N0dWRlbnRzOwogICAgICAgICAgICBwdGhyZWFkX211dGV4X3VubG9jaygmbXV0ZXhfbG9jayk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWNxdWlyZSBsb2NrIHRvIHJlYWQgdmFyaWFibGUKICAgICAgICAgICAgcHRocmVhZF9tdXRleF9sb2NrKCZtdXRleF9sb2NrKTsKICAgICAgICAgICAgaW50IHNpdHRpbmdfc3R1ZGVudHMgPSB3YWl0aW5nX3N0dWRlbnRzOwogICAgICAgICAgICBwdGhyZWFkX211dGV4X3VubG9jaygmbXV0ZXhfbG9jayk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghcHRocmVhZF9jcmVhdGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
