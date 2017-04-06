@@ -31,11 +31,11 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/CMakeLists.txt" timestamp="1491440174634">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/CMakeLists.txt" timestamp="1491471371370">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490760407272">
         <mark key="[" line="0" column="0" />
@@ -94,41 +94,41 @@
       <jump line="2" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs149/homework/4/src/main.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>REQUIRED</text>
       </register>
       <register name="-" type="4">
-        <text>sudoku_srcs</text>
+        <text>REQUIRED</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2RkCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHN1ZG9rdSBUaHJlYWRzOjpUaHJlYWRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0KFRIUkVBRFNfUFJFRkVSX1BUSFJFQURfRkxBRyBPTikK</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHN1ZG9rdSBUaHJlYWRzOjpUaHJlYWRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKFRocmVhZHMgUkVRVUlSRUQpCg==</text>
+        <text encoding="base64">c2V0KFRIUkVBRFNfUFJFRkVSX1BUSFJFQURfRkxBRyBPTikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIG1haW4K</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKFRocmVhZHMgUkVRVUlSRUQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqZXJlbXkgb24gMy8yOS8xNy4KICovCg==</text>
+        <text encoding="base64">ZnVuIG1haW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -185,6 +185,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
