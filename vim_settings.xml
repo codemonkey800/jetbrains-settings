@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/src/java/web/web/index.html" timestamp="1490762139685">
         <mark key="'" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/session.sc" timestamp="1492055509724">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="51" />
+      </file>
       <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="57" />
@@ -99,40 +105,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YSA=</text>
+        <text>System.nanoTime()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrb3RsaW4uc3JjRGlycyA9IFsndGVzdCddCiAgICAgICAgamF2YS5zcmNEaXJzID0gW10KICAgICAgICByZXNvdXJjZXMuc3JjRGlycyA9IFtdCg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqCiAgKiBQcm9ibGVtIDEgKgogICoqKioqKioqKioqKiovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICB2YWwgcmFuZG9tID0gbmV3IC51dGlsLgp9CgovKioqKioqKioqKioqKioKICAqIFByb2JsZW0gMyAqCiAgKioqKioqKioqKioqKi8KCi8qKioqKioqKioqKioqKgogICogUHJvYmxlbSA0ICoKICAqKioqKioqKioqKioqLwoKLyoqKioqKioqKioqKioqCiAgKiBQcm9ibGVtIDUgKgogICoqKioqKioqKioqKiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcmppa2RkCg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqCiAgKiBQcm9ibGVtIDEgKgogICoqKioqKioqKioqKiovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBOYW1lKHZhbCBmaXJzdDogU3RyaW5nLCB2YWwgbGFzdDogU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmFtZSA9IE5hbWUoZmFrZXIubmFtZSgpLikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Vycy5hZGQoVSkK</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBmYWtlciA9IEZha2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlcmppa2RkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBOYW1lKHZhbCBmaXJzdDogU3RyaW5nLCB2YWwgbGFzdDogU3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
