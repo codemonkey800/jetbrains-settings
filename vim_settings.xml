@@ -6,7 +6,7 @@
       <file name="vim_settings.xml" timestamp="1492054154859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490761328466">
+      <file name="/Dummy.txt" timestamp="1492057333324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/web/src/Customer.kt" timestamp="1490761473628">
@@ -18,11 +18,16 @@
       <file name="$USER_HOME$/src/java/web/web/index.html" timestamp="1490762139685">
         <mark key="'" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/session.sc" timestamp="1492055509724">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="51" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/session.sc" timestamp="1492056021853">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" timestamp="1492057658100">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
         <mark key="[" line="5" column="57" />
@@ -53,6 +58,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" timestamp="1492058092797">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/src/java/web/src/main.kt" timestamp="1490762261591">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -78,6 +90,9 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
+      <file name="/fragment.java" timestamp="1492057333336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/web/src/main/kotlin/main.kt" timestamp="1490762648207">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="19" column="23" />
@@ -102,43 +117,45 @@
       <jump line="9" column="6" filename="$USER_HOME$/src/java/web/web/index.html" />
       <jump line="17" column="6" filename="$USER_HOME$/src/java/web/build.gradle" />
       <jump line="64" column="8" filename="$USER_HOME$/src/java/derp/.gitignore" />
+      <jump line="5" column="11" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>System.nanoTime()</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqCiAgKiBQcm9ibGVtIDEgKgogICoqKioqKioqKioqKiovCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBwcmludEF0dGFja01lc3NhZ2UodmljdGltOiBDaGFyYWN0ZXIpOiBVbml0CiAgICAgID0gcHJpbnRsbihzIiRuYW1lIGlzIHN0YWJiaW5nICR7dmljdGltLm5hbWV9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgcmFuZG9tID0gbmV3IC51dGlsLgp9CgovKioqKioqKioqKioqKioKICAqIFByb2JsZW0gMyAqCiAgKioqKioqKioqKioqKi8KCi8qKioqKioqKioqKioqKgogICogUHJvYmxlbSA0ICoKICAqKioqKioqKioqKioqLwoKLyoqKioqKioqKioqKioqCiAgKiBQcm9ibGVtIDUgKgogICoqKioqKioqKioqKiovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqCiAgKiBQcm9ibGVtIDEgKgogICoqKioqKioqKioqKiovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciA9IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIHRydWUgewogICAgICAKICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIldoYXQgdGhlIGZ1Y2siKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcmppa2RkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBOYW1lKHZhbCBmaXJzdDogU3RyaW5nLCB2YWwgbGFzdDogU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -195,6 +212,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
