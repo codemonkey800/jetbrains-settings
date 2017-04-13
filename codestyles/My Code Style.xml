@@ -1,4 +1,5 @@
 <code_scheme name="My Code Style">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="HTML_ALIGN_TEXT" value="true" />
