@@ -29,6 +29,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" timestamp="1492059636141">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="57" />
@@ -58,12 +65,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" timestamp="1492058092797">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" timestamp="1492059482103">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
       </file>
       <file name="$USER_HOME$/src/java/web/src/main.kt" timestamp="1490762261591">
         <mark key="[" line="1" column="0" />
@@ -119,13 +126,14 @@
       <jump line="64" column="8" filename="$USER_HOME$/src/java/derp/.gitignore" />
       <jump line="5" column="11" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" />
       <jump line="25" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" />
+      <jump line="3" column="7" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>damage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBwcmludEF0dGFja01lc3NhZ2UodmljdGltOiBDaGFyYWN0ZXIpOiBVbml0CiAgICAgID0gcHJpbnRsbihzIiRuYW1lIGlzIHN0YWJiaW5nICR7dmljdGltLm5hbWV9IikK</text>
@@ -134,19 +142,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciA9IAo=</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzEyLzE3LgogICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIHRydWUgewogICAgICAKICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCB3aW5uZXIgPSBpZiAoa25pZ2h0LmhlYWx0aCA+IDApIGtuaWdodCBlbHNlIGRyYWdvbgogICAgcHJpbnRsbihzIldpbm5lcjogJHt3aW5uZXIubmFtZX0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIldoYXQgdGhlIGZ1Y2siKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIktuaWdodDogJHtrbmlnaHQuaGVhbHRofSwgRHJhZ29uOiAke2RyYWdvbi5oZWFsdGh9IikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -155,7 +163,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmljdGltLmhlYWx0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
