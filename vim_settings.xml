@@ -29,12 +29,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" timestamp="1492059636141">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" timestamp="1492063302546">
+        <mark key="[" line="43" column="23" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
         <mark key="[" line="5" column="57" />
@@ -65,12 +64,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" timestamp="1492059482103">
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" timestamp="1492061873143">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="13" column="68" />
-        <mark key="." line="13" column="68" />
-        <mark key="^" line="13" column="68" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/web/src/main.kt" timestamp="1490762261591">
         <mark key="[" line="1" column="0" />
@@ -127,43 +125,53 @@
       <jump line="5" column="11" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" />
       <jump line="25" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" />
       <jump line="3" column="7" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="5" column="24" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="4" column="21" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="20" column="18" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="8" column="4" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="9" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="32" column="20" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="28" column="50" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="38" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
+      <jump line="29" column="68" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>damage</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBwcmludEF0dGFja01lc3NhZ2UodmljdGltOiBDaGFyYWN0ZXIpOiBVbml0CiAgICAgID0gcHJpbnRsbihzIiRuYW1lIGlzIHN0YWJiaW5nICR7dmljdGltLm5hbWV9IikK</text>
+        <text encoding="base64">ICAgICAgTGlzdC5maWxsKDUpKEl0ZW0oRGVzY3JpcHRpb24oIlRoZSBNYXRyaXggRFZEIiwgMTUuNTAsICJEVkQgV29ybGQiKSkpOl8qLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaW52ZW50b3J5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTGlzdC5maWxsKEl0ZW0oRGVzY3JpcHRpb24oIlRoZSBNYXRyaXggRFZEIiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzEyLzE3LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdC5maWxsKDMpKEl0ZW0oRGVzY3JpcHRpb24oIlRoZSB0ZXJtaW5hdG9yIERWRCIsIDEzLjI1LCAiRFZEIFdvcmxkIikpKTpfKiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB3aW5uZXIgPSBpZiAoa25pZ2h0LmhlYWx0aCA+IDApIGtuaWdodCBlbHNlIGRyYWdvbgogICAgcHJpbnRsbihzIldpbm5lcjogJHt3aW5uZXIubmFtZX0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIktuaWdodDogJHtrbmlnaHQuaGVhbHRofSwgRHJhZ29uOiAke2RyYWdvbi5oZWFsdGh9IikK</text>
+        <text encoding="base64">ICAgICAgTGlzdC5maWxsKDMpKEl0ZW0oRGVzY3JpcHRpb24oIlRoZSB0ZXJtaW5hdG9yIERWRCIsIDEzLjI1LCAiRFZEIFdvcmxkIikpKTpfKiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgTGlzdC5maWxsKDMpKEl0ZW0oRGVzY3JpcHRpb24oIlRoZSB0ZXJtaW5hdG9yIERWRCIsIDEzLjI1LCAiRFZEIFdvcmxkIikpKTpfKiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgSXRlbShEZXNjcmlwdGlvbigiVGhlIHRlcm1pbmF0b3IgRFZEIiwgMTMuMjUsICJEVkQgV29ybGQiKSksCiAgICAgIEl0ZW0oRGVzY3JpcHRpb24oIlRoZSB0ZXJtaW5hdG9yIERWRCIsIDEzLjI1LCAiRFZEIFdvcmxkIikpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmljdGltLmhlYWx0aAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
