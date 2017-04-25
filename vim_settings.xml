@@ -9,6 +9,12 @@
       <file name="/Dummy.txt" timestamp="1493153464440">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/.gitignore" timestamp="1493155051773">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/web/src/Customer.kt" timestamp="1490761473628">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="2" column="19" />
@@ -52,6 +58,13 @@
         <mark key="]" line="22" column="47" />
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/src/Console.scala" timestamp="1493155097558">
+        <mark key="'" line="1" column="6" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1490791813179">
         <mark key="[" line="0" column="27" />
@@ -174,43 +187,46 @@
       <jump line="150" column="43" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Acorn.scala" />
       <jump line="3" column="6" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/CenThermTest.scala" />
       <jump line="9" column="14" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/CenThermTest.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/.gitignore" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/.gitignore" />
+      <jump line="1" column="6" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/src/Console.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>reply</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjbGFzcyBDZW50aWdyYWRlVGhlcm1vbWV0ZXIgewogICAgZGVmIGNvbXB1dGVUZW1wKGNpdHk6IFN0cmluZykgPSA0MjAKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGFzcyBGYXJlbmhlaWdodEFkYXB0ZXIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGFzcyBUaGVybW9tZXRlckltcGwgZXh0ZW5kcyBUaGVybW9tZXRlciB7CiAgICBvdmVycmlkZSBkZWYgZ2V0TWVhblRlbXBlcmF0dXJlKGNpdGllczogTGlzdFtTdHJpbmddKTogRG91YmxlID0gewogICAgfQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzI1LzE3LgogICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LmdpdGlnbm9yZQouaWRlYS8KZXdvay5pbWwKc3JjLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
