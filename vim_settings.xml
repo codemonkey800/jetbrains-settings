@@ -6,9 +6,6 @@
       <file name="vim_settings.xml" timestamp="1492054154859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493153464440">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/.gitignore" timestamp="1493155051773">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="70" column="0" />
@@ -32,23 +29,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" timestamp="1492057658100">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" timestamp="1492065104515">
-        <mark key="'" line="43" column="30" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="36" />
-        <mark key="." line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="57" />
-        <mark key="." line="5" column="57" />
-        <mark key="^" line="5" column="57" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/src/main/scala/Console.scala" timestamp="1493156306247">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/src/java/app/build.gradle" timestamp="1490791880571">
         <mark key="[" line="21" column="69" />
@@ -68,6 +53,45 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490760407272">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/derp/.gitignore" timestamp="1490791183016">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="89" column="14" />
+        <mark key="]" line="89" column="14" />
+        <mark key="^" line="89" column="24" />
+        <mark key="." line="89" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/build.sbt" timestamp="1493156153903">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493153464440">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" timestamp="1492057658100">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Indus.scala" timestamp="1492065104515">
+        <mark key="'" line="43" column="30" />
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/java/app/src/main/kotlin/main.kt" timestamp="1490792455407">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+      </file>
       <file name="$USER_HOME$/src/java/derp/build.gradle" timestamp="1490752025771">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="23" />
@@ -81,11 +105,6 @@
         <mark key="." line="189" column="38" />
         <mark key="^" line="189" column="17" />
       </file>
-      <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490760407272">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/Dungeon.scala" timestamp="1492064971268">
         <mark key="'" line="1" column="22" />
         <mark key="[" line="3" column="65" />
@@ -97,13 +116,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/derp/.gitignore" timestamp="1490791183016">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="89" column="14" />
-        <mark key="]" line="89" column="14" />
-        <mark key="^" line="89" column="24" />
-        <mark key="." line="89" column="14" />
       </file>
       <file name="$USER_HOME$/src/java/web/build.gradle" timestamp="1490762548026">
         <mark key="'" line="17" column="6" />
@@ -126,12 +138,6 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/build.sbt" timestamp="1493156153903">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-        <mark key="^" line="2" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -195,7 +201,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>reply</text>
@@ -204,31 +210,31 @@
         <text encoding="base64">ICBjbGFzcyBDZW50aWdyYWRlVGhlcm1vbWV0ZXIgewogICAgZGVmIGNvbXB1dGVUZW1wKGNpdHk6IFN0cmluZykgPSA0MjAKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzI1LzE3LgogICovCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzI1LzE3LgogICovCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbWFpbihhcmdzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
