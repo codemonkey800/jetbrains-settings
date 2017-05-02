@@ -24,6 +24,13 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/values.scala" timestamp="1493733940482">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/CenThermTest.scala" timestamp="1492066708133">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -47,16 +54,36 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
+      <file name="/sbtShell" timestamp="1493737727886">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1490791813179">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" timestamp="1493726130190">
+        <mark key="'" line="63" column="1" />
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
+        <mark key="^" line="62" column="36" />
+      </file>
       <file name="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" timestamp="1490760407272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" timestamp="1493736451815">
+        <mark key="'" line="39" column="106" />
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="50" />
+        <mark key="^" line="39" column="50" />
+        <mark key="." line="39" column="50" />
       </file>
       <file name="$USER_HOME$/src/java/derp/.gitignore" timestamp="1490791183016">
         <mark key="'" line="64" column="8" />
@@ -80,6 +107,13 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" timestamp="1493737825009">
+        <mark key="'" line="16" column="57" />
+        <mark key="[" line="65" column="54" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="54" />
+        <mark key="^" line="65" column="55" />
+      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/object-oriented-programming/src/DungeonsAndDragons.scala" timestamp="1492057658100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -97,6 +131,13 @@
         <mark key="]" line="5" column="57" />
         <mark key="." line="5" column="57" />
         <mark key="^" line="5" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" timestamp="1493734871967">
+        <mark key="'" line="57" column="2" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/src/java/derp/build.gradle" timestamp="1490752025771">
         <mark key="[" line="4" column="21" />
@@ -118,6 +159,11 @@
         <mark key="." line="3" column="65" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/build.sbt" timestamp="1493724054813">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/web/src/main.kt" timestamp="1490762261591">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -136,8 +182,14 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1492057333336">
+      <file name="/fragment.java" timestamp="1493737695836">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/exceptions.scala" timestamp="1493724070150">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/src/java/web/src/main/kotlin/main.kt" timestamp="1490762648207">
         <mark key="[" line="17" column="5" />
@@ -147,16 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="2" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="10" column="35" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="13" column="20" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="2" column="10" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/src/java/derp/src/main/kotlin/main.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/src/java/web/src/Customer.kt" />
@@ -206,40 +248,91 @@
       <jump line="1" column="6" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/src/Console.scala" />
       <jump line="3" column="6" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/src/ui.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/ewok/src/ui.scala" />
+      <jump line="3" column="6" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" />
+      <jump line="27" column="18" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/values.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="46" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" />
+      <jump line="64" column="1" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ui.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/values.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/values.scala" />
+      <jump line="2" column="1" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="29" column="85" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="42" column="22" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/values.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="37" column="71" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="54" column="44" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="54" column="24" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/values.scala" />
+      <jump line="55" column="46" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="38" column="63" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="36" column="1" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="35" column="48" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="40" column="7" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="52" column="38" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="17" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="63" column="28" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="39" column="24" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="61" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="42" column="54" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="21" column="56" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="26" column="49" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="41" column="19" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="47" column="2" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/expressions.scala" />
+      <jump line="12" column="22" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" />
+      <jump line="35" column="24" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="36" column="33" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="49" column="31" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="26" column="34" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" />
+      <jump line="36" column="108" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" />
+      <jump line="39" column="106" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/ALU.scala" />
+      <jump line="70" column="64" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
+      <jump line="16" column="57" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs152/jedi/ewok/src/main/scala/parsers.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA1LzIvMTcuCiAgKi8KY2xhc3MgdWkgewoKfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>reply</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjbGFzcyBDZW50aWdyYWRlVGhlcm1vbWV0ZXIgewogICAgZGVmIGNvbXB1dGVUZW1wKGNpdHk6IFN0cmluZykgPSA0MjAKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgZnVuYyB+ICIoIiB+IFNvbWUoYXJnIH4gTmlsKSB+ICIpIiA9PiBGdW5DYWxsKGZ1bmMsIExpc3QoYXJnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA1LzIvMTcuCiAgKi8KY2xhc3MgdWkgewoKfQo=</text>
+        <text encoding="base64">ICBkZWYgbGl0ZXJhbDogUGFyc2VyW0xpdGVyYWxdID0gbnVtYmVyIHwgYm9vbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgbnVtYmVyOiBQYXJzZXJbTGl0ZXJhbF0gPSAiIiJbMS05XVswLTldKigiLiJbMC05XSspPyIiIi5yIF5eIHsgbnVtID0+IE51bWJlcihudW0udG9Eb3VibGUpIH0KICBkZWYgYm9vbGU6IFBhcnNlcltMaXRlcmFsXSA9ICJ0cnVlfGZhbHNlIi5yIF5eIHsgYm9vbCA9PiBCb29sZShib29sLnRvQm9vbGVhbikgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzI1LzE3LgogICovCg==</text>
+        <text encoding="base64">ICBkZWYgdGVybTogUGFyc2VyW0V4cHJlc3Npb25dID0gbnVtYmVyIHwgYm9vbGUgfCBpZGVudGlmaWVyIHwgIigiIH4gZXhwcmVzc2lvbiB+ICIpIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVmIHRlcm06IFBhcnNlcltFeHByZXNzaW9uXSA9IG51bWJlciB8IGJvb2xlIHwgaWRlbnRpZmllciB8ICIoIiB+IGV4cHJlc3Npb24gfiAiKSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzI1LzE3LgogICovCg==</text>
+        <text encoding="base64">ICBkZWYgdGVybTogUGFyc2VyW0V4cHJlc3Npb25dID0gbnVtYmVyIHwgYm9vbGUgfCBpZGVudGlmaWVyIHwgIigiIH4gZXhwcmVzc2lvbiB+ICIpIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgZnVuYyB+ICIoIiB+IGFyZyB+IE5pbCB+ICIpIiA9PiAgRnVuQ2FsbChmdW5jLCBMaXN0KGFyZykpCiAgICBjYXNlIGZ1bmMgfiAiKCIgfiBhcmcgfiBhcmdzIH4gIikiID0+IEZ1bkNhbGwoZnVuYywgYXJnIDo6IGFyZ3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGplcmVteSBvbiA0LzI1LzE3LgogICovCg==</text>
+        <text encoding="base64">ICBkZWYgb3BlcmFuZHM6IFBhcnNlcltFeHByZXNzaW9uXSA9ICIoIiB+IG9wdChleHByZXNzaW9uIH4gcmVwKCIsIiB+PiBleHByZXNzaW9uKSkgfiAiKSIgXl4gewogIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -257,6 +350,7 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub3JtIHlzd2wp</entry>
         <entry>sort</entry>
+        <entry>redo</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
@@ -311,6 +405,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
