@@ -15,6 +15,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/src/java/test-app/src/main.kt" timestamp="1499670534825">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/src/java/kotlin-koans/src/i_introduction/_0_Hello_World/HelloWorld.kt" timestamp="1499670326753">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="27" column="13" />
@@ -30,28 +36,34 @@
         <text>http://kotlinlang.org/docs/reference/basic-syntax.html#defining-functions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgamVyZW15IG9uIDcvMTAvMTcuCiAqLwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      <register name="&quot;" type="4">
+        <text>WOrld</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0b2RvVGFzazAoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVc2luZyAnZG9jdW1lbnRhdGlvbiA9JyBiZWxvdyB0aGUgdGFzayBkZXNjcmlwdGlvbiB5b3UgY2FuIG9wZW4gdGhlIHJlbGF0ZWQgcGFydCBvZiB0aGUgb25saW5lIGRvY3VtZW50YXRpb24uCiAgICAgICAgICAgIFByZXNzICdDdHJsK1EnKFdpbmRvd3MpIG9yICdGMScoTWFjIE9TKSBvbiAnZG9jMCgpJyB0byBjYWxsIHRoZSAiUXVpY2sgRG9jdW1lbnRhdGlvbiIgYWN0aW9uOwogICAgICAgICAgICAiU2VlIGFsc28iIHNlY3Rpb24gZ2l2ZXMgeW91IGEgbGluay4KICAgICAgICAgICAgWW91IGNhbiBzZWUgdGhlIHNob3J0Y3V0IGZvciB0aGUgIlF1aWNrIERvY3VtZW50YXRpb24iIGFjdGlvbiB1c2VkIGluIHlvdXIgSW50ZWxsaUogSURFQQogICAgICAgICAgICBieSBjaG9vc2luZyAiSGVscCAtPiBGaW5kIEFjdGlvbi4uLiIgKGluIHRoZSB0b3AgbWVudSksIGFuZCB0eXBpbmcgdGhlIGFjdGlvbiBuYW1lICgiUXVpY2sgRG9jdW1lbnRhdGlvbiIpLgogICAgICAgICAgICBUaGUgc2hvcnRjdXQgaW4gdXNlIHdpbGwgYmUgd3JpdHRlbiBuZXh0IHRvIHRoZSBhY3Rpb24gbmFtZS4KCiAgICAgICAgVXNpbmcgJ3JlZmVyZW5jZXMgPScgeW91IGNhbiBuYXZpZ2F0ZSB0byB0aGUgY29kZSBtZW50aW9uZWQgaW4gdGhlIHRhc2sgZGVzY3JpcHRpb24uCgogICAgICAgIExldCdzIHN0YXJ0ISBNYWtlIHRoZSBmdW5jdGlvbiAndGFzazAnIHJldHVybiAiT0siLiBOb3RlIHRoYXQgeW91IGNhbiByZXR1cm4gZXhwcmVzc2lvbiBkaXJlY3RseS4KICAgICIiIiwKICAgIGRvY3VtZW50YXRpb24gPSBkb2MwKCksCiAgICByZWZlcmVuY2VzID0geyB0YXNrMCgpOyAiT0siIH0KKQoKZnVuIHRhc2swKCk6IFN0cmluZyB7CiAgICByZXR1cm4gdG9kb1Rhc2swKCkKfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0b2RvVGFzazAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICBVc2luZyAnZG9jdW1lbnRhdGlvbiA9JyBiZWxvdyB0aGUgdGFzayBkZXNjcmlwdGlvbiB5b3UgY2FuIG9wZW4gdGhlIHJlbGF0ZWQgcGFydCBvZiB0aGUgb25saW5lIGRvY3VtZW50YXRpb24uCiAgICAgICAgICAgIFByZXNzICdDdHJsK1EnKFdpbmRvd3MpIG9yICdGMScoTWFjIE9TKSBvbiAnZG9jMCgpJyB0byBjYWxsIHRoZSAiUXVpY2sgRG9jdW1lbnRhdGlvbiIgYWN0aW9uOwogICAgICAgICAgICAiU2VlIGFsc28iIHNlY3Rpb24gZ2l2ZXMgeW91IGEgbGluay4KICAgICAgICAgICAgWW91IGNhbiBzZWUgdGhlIHNob3J0Y3V0IGZvciB0aGUgIlF1aWNrIERvY3VtZW50YXRpb24iIGFjdGlvbiB1c2VkIGluIHlvdXIgSW50ZWxsaUogSURFQQogICAgICAgICAgICBieSBjaG9vc2luZyAiSGVscCAtPiBGaW5kIEFjdGlvbi4uLiIgKGluIHRoZSB0b3AgbWVudSksIGFuZCB0eXBpbmcgdGhlIGFjdGlvbiBuYW1lICgiUXVpY2sgRG9jdW1lbnRhdGlvbiIpLgogICAgICAgICAgICBUaGUgc2hvcnRjdXQgaW4gdXNlIHdpbGwgYmUgd3JpdHRlbiBuZXh0IHRvIHRoZSBhY3Rpb24gbmFtZS4KCiAgICAgICAgVXNpbmcgJ3JlZmVyZW5jZXMgPScgeW91IGNhbiBuYXZpZ2F0ZSB0byB0aGUgY29kZSBtZW50aW9uZWQgaW4gdGhlIHRhc2sgZGVzY3JpcHRpb24uCgogICAgICAgIExldCdzIHN0YXJ0ISBNYWtlIHRoZSBmdW5jdGlvbiAndGFzazAnIHJldHVybiAiT0siLiBOb3RlIHRoYXQgeW91IGNhbiByZXR1cm4gZXhwcmVzc2lvbiBkaXJlY3RseS4KICAgICIiIiwKICAgIGRvY3VtZW50YXRpb24gPSBkb2MwKCksCiAgICByZWZlcmVuY2VzID0geyB0YXNrMCgpOyAiT0siIH0KKQoKZnVuIHRhc2swKCk6IFN0cmluZyB7CiAgICByZXR1cm4gdG9kb1Rhc2swKCkKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqZXJlbXkgb24gNy85LzE3LgogKi8K</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBqZXJlbXkgb24gNy85LzE3LgogKi8K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text>WOrld</text>
       </register>
     </registers>
     <search>
