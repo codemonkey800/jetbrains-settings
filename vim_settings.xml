@@ -27,43 +27,67 @@
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
       </file>
+      <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499671402083">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/build.gradle" timestamp="1499671493067">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/.editorconfig" timestamp="1499671380820">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" />
+      <jump line="10" column="9" filename="$USER_HOME$/src/java/test-app/.editorconfig" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>http://kotlinlang.org/docs/reference/basic-syntax.html#defining-functions</text>
+      <register name="&quot;" type="4">
+        <text>mavenCentral</text>
+      </register>
+      <register name="-" type="4">
+        <text>mavenCentral</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1haW4ua290bGluLnNyY0RpcnMgPSBbJ3NyYyddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgamVyZW15IG9uIDcvMTAvMTcuCiAqLwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>WOrld</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCEiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0b2RvVGFzazAoKQo=</text>
+        <text encoding="base64">W01ha2VmaWxlXQppbmRlbnRfc2l6ZSA9IDQKaW5kZW50X3N0eWxlID0gdGFiCgpbYmluLyoqLypdCmluZGVudF9zaXplID0gNAoKWyoucHldCmluZGVudF9zaXplID0gNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2luZyAnZG9jdW1lbnRhdGlvbiA9JyBiZWxvdyB0aGUgdGFzayBkZXNjcmlwdGlvbiB5b3UgY2FuIG9wZW4gdGhlIHJlbGF0ZWQgcGFydCBvZiB0aGUgb25saW5lIGRvY3VtZW50YXRpb24uCiAgICAgICAgICAgIFByZXNzICdDdHJsK1EnKFdpbmRvd3MpIG9yICdGMScoTWFjIE9TKSBvbiAnZG9jMCgpJyB0byBjYWxsIHRoZSAiUXVpY2sgRG9jdW1lbnRhdGlvbiIgYWN0aW9uOwogICAgICAgICAgICAiU2VlIGFsc28iIHNlY3Rpb24gZ2l2ZXMgeW91IGEgbGluay4KICAgICAgICAgICAgWW91IGNhbiBzZWUgdGhlIHNob3J0Y3V0IGZvciB0aGUgIlF1aWNrIERvY3VtZW50YXRpb24iIGFjdGlvbiB1c2VkIGluIHlvdXIgSW50ZWxsaUogSURFQQogICAgICAgICAgICBieSBjaG9vc2luZyAiSGVscCAtPiBGaW5kIEFjdGlvbi4uLiIgKGluIHRoZSB0b3AgbWVudSksIGFuZCB0eXBpbmcgdGhlIGFjdGlvbiBuYW1lICgiUXVpY2sgRG9jdW1lbnRhdGlvbiIpLgogICAgICAgICAgICBUaGUgc2hvcnRjdXQgaW4gdXNlIHdpbGwgYmUgd3JpdHRlbiBuZXh0IHRvIHRoZSBhY3Rpb24gbmFtZS4KCiAgICAgICAgVXNpbmcgJ3JlZmVyZW5jZXMgPScgeW91IGNhbiBuYXZpZ2F0ZSB0byB0aGUgY29kZSBtZW50aW9uZWQgaW4gdGhlIHRhc2sgZGVzY3JpcHRpb24uCgogICAgICAgIExldCdzIHN0YXJ0ISBNYWtlIHRoZSBmdW5jdGlvbiAndGFzazAnIHJldHVybiAiT0siLiBOb3RlIHRoYXQgeW91IGNhbiByZXR1cm4gZXhwcmVzc2lvbiBkaXJlY3RseS4KICAgICIiIiwKICAgIGRvY3VtZW50YXRpb24gPSBkb2MwKCksCiAgICByZWZlcmVuY2VzID0geyB0YXNrMCgpOyAiT0siIH0KKQoKZnVuIHRhc2swKCk6IFN0cmluZyB7CiAgICByZXR1cm4gdG9kb1Rhc2swKCkKfQo=</text>
+        <text encoding="base64">ICAgIGFpbiB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">c291cmNlU2V0cy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqZXJlbXkgb24gNy85LzE3LgogKi8K</text>
+        <text encoding="base64">c291cmNlU2V0cyB7CiAgICBtYWluLmtvdGxpbi5zcmNEaXIgPSAnc3JjJwogICAgdGVzdC5rb3RsaW4uc3JjRGlyID0gJ3Rlc3QnCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlyID0gJ3NyYycK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1haW4gewogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
-      </register>
-      <register name="-" type="4">
-        <text>WOrld</text>
       </register>
     </registers>
     <search>
@@ -94,6 +118,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
