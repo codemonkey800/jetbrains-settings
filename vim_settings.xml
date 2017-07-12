@@ -44,6 +44,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/Kotlin_Koans/lesson1/task1/src/Task.kt" timestamp="1499844606928">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" />
@@ -51,40 +57,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mavenCentral</text>
+        <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>mavenCentral</text>
+        <text>TODO()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1haW4ua290bGluLnNyY0RpcnMgPSBbJ3NyYyddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCEiKQo=</text>
+        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCEiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W01ha2VmaWxlXQppbmRlbnRfc2l6ZSA9IDQKaW5kZW50X3N0eWxlID0gdGFiCgpbYmluLyoqLypdCmluZGVudF9zaXplID0gNAoKWyoucHldCmluZGVudF9zaXplID0gNAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFpbiB7fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c291cmNlU2V0cy4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c291cmNlU2V0cyB7CiAgICBtYWluLmtvdGxpbi5zcmNEaXIgPSAnc3JjJwogICAgdGVzdC5rb3RsaW4uc3JjRGlyID0gJ3Rlc3QnCn0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">W01ha2VmaWxlXQppbmRlbnRfc2l6ZSA9IDQKaW5kZW50X3N0eWxlID0gdGFiCgpbYmluLyoqLypdCmluZGVudF9zaXplID0gNAoKWyoucHldCmluZGVudF9zaXplID0gNAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFpbiB7fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c291cmNlU2V0cy4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c291cmNlU2V0cyB7CiAgICBtYWluLmtvdGxpbi5zcmNEaXIgPSAnc3JjJwogICAgdGVzdC5rb3RsaW4uc3JjRGlyID0gJ3Rlc3QnCn0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlyID0gJ3NyYycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1haW4gewogICAgfQo=</text>
+        <text encoding="base64">c291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlyID0gJ3NyYycK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -124,6 +130,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
