@@ -3,6 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task2/src/Task.kt" timestamp="1499844755710">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1500865937875">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task1/src/Task.kt" timestamp="1499844701130">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/build.gradle.kts" timestamp="1499845904076">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/third_party/BUILD" timestamp="1500866248441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/build.gradle" timestamp="1499845621034">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="22" column="10" />
+      </file>
       <file name="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" timestamp="1499669666155">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="1" column="25" />
@@ -15,16 +54,10 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task2/src/Task.kt" timestamp="1499844755710">
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task1/src/Task.kt" timestamp="1499844701130">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="$USER_HOME$/src/java/computer-science/WORKSPACE" timestamp="1500866249048">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/src/main.kt" timestamp="1499670534825">
         <mark key="[" line="1" column="20" />
@@ -38,27 +71,14 @@
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/src/java/test-app/build.gradle.kts" timestamp="1499845904076">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task2/src/JavaCode.java" timestamp="1499844726465">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="24" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/java/test-app/build.gradle" timestamp="1499845621034">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="22" column="10" />
+      <file name="/mockProjectViewFile" timestamp="1500865867341">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/.editorconfig" timestamp="1499671380820">
         <mark key="[" line="9" column="0" />
@@ -78,43 +98,46 @@
       <jump line="3" column="0" filename="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task2/src/Task.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/src/java/test-app/build.gradle.kts" />
       <jump line="0" column="0" filename="$USER_HOME$/src/java/test-app/build.gradle.kts" />
+      <jump line="4" column="0" filename="/mockProjectViewFile" />
+      <jump line="10" column="20" filename="/mockProjectViewFile" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/java/computer-science/third_party/BUILD" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKQogIGFwcGxpY2F0aW9uCn0KCnJlcG9zaXRvcmllcyB7CiAgamNlbnRlcigpCn0KCmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZShrb3RsaW4oInN0ZGxpYiIpKQp9Cg==</text>
+        <text encoding="base64">bWF2ZW5famFyKAogICAgbmFtZSA9ICJqdW5pdCIsCiAgICBhcnRpZmFjdCA9ICJqdW5pdDpqdW5pdDo0LjEyIiwKKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>TODO()</text>
+        <text>k</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIlsiKTsKICAgICAgICBJdGVyYXRvcjxJbnRlZ2VyPiBpdGVyYXRvciA9IGNvbGxlY3Rpb24uaXRlcmF0b3IoKTsKICAgICAgICB3aGlsZSAoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEludGVnZXIgZWxlbWVudCA9IGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgc2IuYXBwZW5kKGVsZW1lbnQpOwogICAgICAgICAgICBpZiAoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiwgIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc2IuYXBwZW5kKCJdIik7CiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKQogIGFwcGxpY2F0aW9uCn0KCnJlcG9zaXRvcmllcyB7CiAgamNlbnRlcigpCn0KCmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZShrb3RsaW4oInN0ZGxpYiIpKQp9Cg==</text>
+        <text encoding="base64">bWF2ZW5famFyKAogICAgbmFtZSA9ICJqdW5pdCIsCiAgICBhcnRpZmFjdCA9ICJqdW5pdDpqdW5pdDo0LjEyIiwKKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFyYXRvci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkaXRpb25hbF9sYW5ndWFnZXM6CiAgIyBVbmNvbW1lbnQgYW55IGFkZGl0aW9uYWwgbGFuZ3VhZ2VzIHlvdSB3YW50IHN1cHBvcnRlZAogICMgYW5kcm9pZAogICMgZGFydAogICMgcHl0aG9uCiAgIyBzY2FsYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbGljYXRpb24gewp9Cg==</text>
+        <text encoding="base64">ICAjIEFkZCB0aGUgZGlyZWN0b3JpZXMgeW91IHdhbnQgYWRkZWQgYXMgc291cmNlIGhlcmUKICAjIEJ5IGRlZmF1bHQsIHdlJ3ZlIGFkZGVkIHlvdXIgZW50aXJlIHdvcmtzcGFjZSAoJy4nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLy4uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXAgPQo=</text>
+        <text encoding="base64">YWRkaXRpb25hbF9sYW5ndWFnZXM6CiAgIyBVbmNvbW1lbnQgYW55IGFkZGl0aW9uYWwgbGFuZ3VhZ2VzIHlvdSB3YW50IHN1cHBvcnRlZAogICMgYW5kcm9pZAogICMgZGFydAogICMgcHl0aG9uCiAgIyBzY2FsYQprCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CnNiLmFwcGVuZCgiWyIpOwpJdGVyYXRvcjxJbnRlZ2VyPiBpdGVyYXRvciA9IGNvbGxlY3Rpb24uaXRlcmF0b3IoKTsKd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgSW50ZWdlciBlbGVtZW50ID0gaXRlcmF0b3IubmV4dCgpOwogICAgc2IuYXBwZW5kKGVsZW1lbnQpOwogICAgaWYgKGl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgIHNiLmFwcGVuZCgiLCAiKTsKICAgIH0KfQpzYi5hcHBlbmQoIl0iKTsKcmV0dXJuIHNiLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAga290bGluKCJqdm0iKQogIGFwcGxpY2F0aW9uCn0KCnJlcG9zaXRvcmllcyB7CiAgamNlbnRlcigpCn0KCmRlcGVuZGVuY2llcyB7CiAgY29tcGlsZShrb3RsaW4oInN0ZGxpYiIpKQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
