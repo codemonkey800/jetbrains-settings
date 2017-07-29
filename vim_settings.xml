@@ -14,6 +14,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" timestamp="1501369633082">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" timestamp="1501369634868">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/computer-science/javatests/io/jeremyasuncion/algorithms/SortingTest.java" timestamp="1500868569034">
         <mark key="'" line="19" column="70" />
         <mark key="[" line="20" column="32" />
@@ -57,13 +69,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500954774621">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/algorithms/SortingTest.java" timestamp="1501369042794">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task2/src/Task.kt" timestamp="1499844755710">
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1501369132006">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1500868636894">
         <mark key="[" line="16" column="0" />
@@ -88,12 +100,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/build.gradle" timestamp="1500954088828">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/src/java/computer-science/build.gradle" timestamp="1501368483145">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" timestamp="1499669666155">
         <mark key="[" line="0" column="31" />
@@ -124,10 +136,6 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task2/src/JavaCode.java" timestamp="1499844726465">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="16" column="28" />
-      </file>
       <file name="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" timestamp="1500971299138">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="40" column="57" />
@@ -148,7 +156,7 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1500954610722">
+      <file name="/fragment.java" timestamp="1501369132024">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/.editorconfig" timestamp="1499671380820">
@@ -184,40 +192,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" />
       <jump line="36" column="4" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
       <jump line="4" column="33" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/java/computer-science/build.gradle" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
+      <jump line="6" column="43" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDJdCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IGkgPSA=</text>
+        <text>ara</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleF0gPSAnJSc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyW10gZXhwZWN0ZWQgPSB7MiwgMX07CiAgICAgICAgYXJyYXkKICAgICAgICAgICAgLnByZXBlbmQoMSkKICAgICAgICAgICAgLnByZXBlbmQoMik7CiAgICAgICAgYXNzZXJ0QXJyYXlFcXVhbHMoYXJyYXkudG9BcnJheSgpLCBleHBlY3RlZCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDJdCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZGV4ID09IDApCg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyW10gZXhwZWN0ZWQgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUW10gZGF0YSA9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gc3RyLmxlbmd0aCAtIDE7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICAgIGluZGV4ID0gaTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUIGppawo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -234,8 +246,8 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>redo</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -269,7 +281,13 @@
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
