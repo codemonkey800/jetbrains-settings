@@ -142,17 +142,17 @@
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtils.java" timestamp="1501372357207">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501485040762">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501491745611">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501487750390">
-        <mark key="[" line="324" column="49" />
-        <mark key="]" line="324" column="56" />
-        <mark key="." line="324" column="56" />
-        <mark key="^" line="324" column="56" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501491729648">
+        <mark key="[" line="348" column="28" />
+        <mark key="]" line="348" column="32" />
+        <mark key="." line="348" column="32" />
+        <mark key="^" line="348" column="32" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
         <mark key="[" line="1" column="24" />
@@ -353,47 +353,47 @@
       <jump line="251" column="64" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IG1hdHJpeFtlZGdlTGVuZ3RoIC0gMV1bb2Zmc2V0XTsK</text>
+      <register name="&quot;" type="4">
+        <text>zeroMAtrix</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>zeroMAtrix</text>
       </register>
       <register name="/" type="4">
         <text>For exa</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeFtvZmZzZXRdW29mZnNldF0KICAgICAgICAgICAgICAgICAgICA9IG1hdHJpeFtdW107Cg==</text>
+      <register name="0" type="4">
+        <text>matrix[length - i - 1][length - j - 1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IG1hdHJpeFtlZGdlTGVuZ3RoIC0gMV1bb2Zmc2V0XTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeFtvZmZzZXRdW29mZnNldF0KICAgICAgICAgICAgICAgICAgICA9IG1hdHJpeFtdW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeD1bb2Zmc2V0XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB0ZW1wID0gbWF0cml4W2xheWVyXVtsYXllciArIGldOwogICAgICAgICAgICAgICAgaW50IG9mZnNldCA9IGxheWVyICsgZWRnZUxlbmd0aCAtIGkgLSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdHJpeC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG1hdHJpeFswXS5sZW5ndGg7IGorKykgewogICAgICAgICAgICAgICAgaWYgKG1hdHJpeFtpXVtqXSAhPSAwKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeFtsYXllcl1bbGF5ZXIgKyBpXQogICAgICAgICAgICAgICAgICAgID0gbWF0cml4W29mZnNldF1bbGF5ZXJdOwogICAgICAgICAgICAgICAgbWF0cml4W29mZnNldF1bbGF5ZXJdCiAgICAgICAgICAgICAgICAgICAgPSBtYXRyaXhbb2Zmc2V0XVtvZmZzZXRdOwogICAgICAgICAgICAgICAgbWF0cml4W29mZnNldF1bb2Zmc2V0XQogICAgICAgICAgICAgICAgICAgID0gbWF0cml4W2xheWVyICsgaV1bb2Zmc2V0XTsKICAgICAgICAgICAgICAgIG1hdHJpeFtsYXllciArIGldW29mZnNldF0gPSB0ZW1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBsZWZ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGsgPSApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBsZWZ0RWRnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGsgPSBqamspCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -412,11 +412,11 @@
       <history-cmd>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>redo</entry>
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
         <entry>q</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
