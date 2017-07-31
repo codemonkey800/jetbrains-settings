@@ -57,6 +57,9 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="22" column="10" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/SortedSet.java" timestamp="1501478819259">
+        <mark key="'" line="107" column="17" />
+      </file>
       <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/utils/RandomUtils.java" timestamp="1501472857452">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="30" />
@@ -138,6 +141,18 @@
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtils.java" timestamp="1501372357207">
         <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501478897966">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501478932973">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="35" column="78" />
+        <mark key="]" line="35" column="78" />
+        <mark key="." line="35" column="78" />
+        <mark key="^" line="35" column="78" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
         <mark key="[" line="1" column="24" />
@@ -254,6 +269,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/src/java/ctci-solutions/.editorconfig" timestamp="1501478461681">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" />
@@ -304,46 +325,50 @@
       <jump line="14" column="0" filename="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/testutils/Assert.java" />
       <jump line="70" column="4" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" />
       <jump line="67" column="23" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" />
+      <jump line="10" column="9" filename="$USER_HOME$/src/java/ctci-solutions/.editorconfig" />
+      <jump line="40" column="13" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="5" column="2" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="107" column="17" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/SortedSet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Tact Coa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Tact Coa</text>
+        <text>chat</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXNQYWxpbmRyb21lUGVybXV0YXRpb24oIlRhY3QgQ29hIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc1VuaXF1ZSgiYWJjZCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50ICUgMiAhPSAxKSkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc1VuaXF1ZSgiYWJjZCIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc1VuaXF1ZUFzY2lpKCJhYmNkIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50ICUgMiA9PSAwICYmIGlzRXZlbkxlbmd0aCAgKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZpbmFsIGNsYXNzIFRlc3RBcHAgewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpc1BhbGluZHJvbWVQZXJtdXRhdGlvbigiVGFjdCBDb2EiKSk7CiAgICB9CiAgICAKICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNQYWxpbmRyb21lUGVybXV0YXRpb24oU3RyaW5nIHN0cikgewogICAgICAgIHN0ciA9IHN0ci50b0xvd2VyQ2FzZSgpLnJlcGxhY2UoIiAiLCAiIik7CiAgICAgICAgCiAgICAgICAgaW50W10gY2hhckNvdW50ID0gbmV3IGludFsxMjhdOwogICAgICAgIGZvciAoY2hhciBjIDogc3RyLnRvQ2hhckFycmF5KCkpIHsKICAgICAgICAgICAgY2hhckNvdW50W2NdKys7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIGJvb2xlYW4gaXNFdmVuID0gc3RyLmxlbmd0aCgpICUgMiA9PSAwOwogICAgICAgIGJvb2xlYW4gZm91bmRPZGQgPSBmYWxzZTsKICAgICAgICAKICAgICAgICBmb3IgKGludCBjb3VudCA6IGNoYXJDb3VudCkgewogICAgICAgICAgICBpZiAoY291bnQgJSAyID09IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvLCBXb3JsZCEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJTZXQuY29udGFpbnMoYykpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgY2hhclNldC5hZGQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -416,6 +441,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
