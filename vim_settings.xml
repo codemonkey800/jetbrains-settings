@@ -142,17 +142,18 @@
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtils.java" timestamp="1501372357207">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501478897966">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501482538671">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="64" />
+        <mark key="." line="5" column="64" />
+        <mark key="^" line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501478932973">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="35" column="78" />
-        <mark key="]" line="35" column="78" />
-        <mark key="." line="35" column="78" />
-        <mark key="^" line="35" column="78" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501482953315">
+        <mark key="'" line="251" column="64" />
+        <mark key="[" line="258" column="54" />
+        <mark key="]" line="259" column="29" />
+        <mark key="." line="259" column="29" />
+        <mark key="^" line="259" column="29" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
         <mark key="[" line="1" column="24" />
@@ -329,69 +330,94 @@
       <jump line="40" column="13" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
       <jump line="5" column="2" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
       <jump line="107" column="17" filename="/usr/lib/jvm/java-8-openjdk/src.zip!/java/util/SortedSet.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="59" column="11" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="53" column="9" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="44" column="30" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="12" column="22" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="54" column="14" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="2" column="20" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="0" column="2" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="60" column="6" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="70" column="3" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="93" column="12" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="46" column="49" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="111" column="32" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="17" column="5" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="256" column="4" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="118" column="14" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="166" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="264" column="7" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
+      <jump line="251" column="64" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>chat</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>For exa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc1VuaXF1ZSgiYWJjZCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc09uZUVkaXRBd2F5KCJwYWxlIiwgInBsZSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0ci5jaGFyQXQoaSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc1VuaXF1ZSgiYWJjZCIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc1VuaXF1ZUFzY2lpKCJhYmNkIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvLCBXb3JsZCEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJTZXQuY29udGFpbnMoYykpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgY2hhclNldC5hZGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>timeout</last-search>
+      <last-search>For exa</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>For exa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>timeout</entry>
+        <entry>For exmaple</entry>
+        <entry>For exa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>q</entry>
+        <entry>redo</entry>
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
-        <entry>redo</entry>
-        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
