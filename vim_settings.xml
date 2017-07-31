@@ -142,18 +142,16 @@
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtils.java" timestamp="1501372357207">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501482538671">
-        <mark key="[" line="5" column="61" />
-        <mark key="]" line="5" column="64" />
-        <mark key="." line="5" column="64" />
-        <mark key="^" line="5" column="64" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501485040762">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501482953315">
-        <mark key="'" line="251" column="64" />
-        <mark key="[" line="258" column="54" />
-        <mark key="]" line="259" column="29" />
-        <mark key="." line="259" column="29" />
-        <mark key="^" line="259" column="29" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501484958368">
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
         <mark key="[" line="1" column="24" />
@@ -355,46 +353,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgezEsIDIsIDMsIDR9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>For exa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5pc09uZUVkaXRBd2F5KCJwYWxlIiwgInBsZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgezEsIDIsIDMsIDR9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgezksIDEwLCAxMSwgMTJ9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0ci5jaGFyQXQoaSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgezQsIDUsIDZ9LAogICAgICAgICAgICB7NywgOCwgOX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2hhcHRlck9uZS5jb21wcmVzc1N0cmluZygiQUFCQkNDYWFiY2NjY2NhYWEiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -413,11 +411,11 @@
       <history-cmd>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>q</entry>
         <entry>redo</entry>
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
