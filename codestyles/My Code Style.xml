@@ -2,6 +2,7 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   <CssCodeStyleSettings>
