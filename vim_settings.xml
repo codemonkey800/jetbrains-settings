@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/TestConstants.java" timestamp="1501372157858">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="4" column="75" />
-        <mark key="." line="4" column="75" />
-        <mark key="^" line="4" column="75" />
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/TestConstants.java" timestamp="1501468863739">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/build.gradle.kts" timestamp="1499845904076">
         <mark key="[" line="0" column="6" />
@@ -20,11 +19,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" timestamp="1501372460010">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" timestamp="1501471044186">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="14" />
+        <mark key="." line="78" column="14" />
+        <mark key="^" line="78" column="14" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" timestamp="1501371352686">
         <mark key="'" line="30" column="20" />
@@ -83,10 +83,10 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501369132006">
+      <file name="/Dummy.txt" timestamp="1501470765038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/datastructures/DynamicArrayTest.java" timestamp="1501371792483">
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/datastructures/DynamicArrayTest.java" timestamp="1501470129326">
         <mark key="'" line="41" column="51" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="48" />
@@ -122,11 +122,11 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1501467607672">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1501469637489">
+        <mark key="[" line="55" column="36" />
+        <mark key="]" line="55" column="42" />
+        <mark key="." line="55" column="42" />
+        <mark key="^" line="55" column="42" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/SortingTest.java" timestamp="1501467658137">
         <mark key="[" line="36" column="0" />
@@ -208,7 +208,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1501372795500">
+      <file name="/fragment.java" timestamp="1501470765049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/.editorconfig" timestamp="1499671380820">
@@ -257,7 +257,6 @@
       <jump line="3" column="44" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" />
       <jump line="59" column="0" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" />
       <jump line="44" column="51" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
-      <jump line="29" column="19" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" />
       <jump line="2" column="12" filename="$USER_HOME$/src/java/computer-science/src/test/java/algorithms/SortingTest.java" />
       <jump line="30" column="20" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
       <jump line="9" column="28" filename="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/SortingTest.java" />
@@ -268,13 +267,15 @@
       <jump line="92" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java" />
       <jump line="67" column="42" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" />
       <jump line="30" column="41" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" />
+      <jump line="29" column="22" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
@@ -283,34 +284,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIDxUIGV4dGVuZHMgQ29tcGFyYWJsZTxUPj4gdm9pZCBoZWFwU29ydEhlbHBlcihUW10gYXJyYXksIGludCBsZW5ndGgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gYXJyYXkubGVuZ3RoIC8gMikK</text>
+        <text encoding="base64">ICAgICAgICBUW10gZGF0YSA9IChUW10pIG5ldyBDb21wYXJhYmxlPD4oKVtjYXBdOwogICAgICAgIFN5c3RlbS5hcnJheWNvcHkodGhpcy5kYXRhLCAwLCBkYXRhLCAwLCBzaXplKTsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHRoaXMuZGF0YSA9IEFycmF5cy5jb3B5T2YoZGF0YSwgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhcFNvcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJyYXkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIGtrIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBBcnJheXMuY29wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNpemUgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcmlvcml0eVF1ZXVlPEludGVnZXI+IHF1ZXVlID0gbmV3IFByaW9yaXR5UXVldWU8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGUgYXJyYXkgaXMgc2l6ZWQgdXAsIHRoZW4gd2UgdXNlIHRoZSBvcmlnaW5hbCBzaXplIG9mIHRoZSBhcnJheSwKICAgICAgICAvLyBidXQgaWYgdGhlIGFycmF5IGlzIHNpemVkIGRvd24sIHdlIHVzZSB0aGUgbmV3IGNhcCBhbmQgZXJhc2Ugb2xkCiAgICAgICAgLy8gZWxlbWVudHMuCiAgICAgICAgc2l6ZSA9IE1hdGgubWluKHNpemUsIGNhcCk7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIEFycmF5cy5jb3B5T2YoZGF0YSwgY2FwKTsKCiAgICAgICAgVFtdIGRhdGEgPSAoVFtdKSBuZXcgQ29tcGFyYWJsZTw+KClbY2FwXTsKICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KHRoaXMuZGF0YSwgMCwgZGF0YSwgMCwgc2l6ZSk7CiAgICAgICAgdGhpcy5kYXRhID0gZGF0YTsKICAgICAgICB0aGlzLmRhdGEgPSBBcnJheXMuY29weU9mKGRhdGEsICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTA7IGkgPiAwOyBpLS0pIHsKICAgICAgICAgICAgcXVldWUuYWRkKGkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocXVldWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>redo</text>
       </register>
     </registers>
     <search>
@@ -326,11 +327,11 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
-        <entry>redo</entry>
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
         <entry>q</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
