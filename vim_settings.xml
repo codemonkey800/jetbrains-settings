@@ -142,11 +142,10 @@
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtils.java" timestamp="1501372357207">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501491745611">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501491792104">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501491729648">
         <mark key="[" line="348" column="28" />
@@ -353,8 +352,8 @@
       <jump line="251" column="64" filename="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>zeroMAtrix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>zeroMAtrix</text>
@@ -366,34 +365,34 @@
         <text>matrix[length - i - 1][length - j - 1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdHJpeC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG1hdHJpeFswXS5sZW5ndGg7IGorKykgewogICAgICAgICAgICAgICAgaWYgKG1hdHJpeFtpXVtqXSAhPSAwKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcHJpbnRNYXRyaXgoaW50W11bXSBtYXRyaXgpIHsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdHJpeC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG1hdHJpeFswXS5sZW5ndGg7IGorKykgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChtYXRyaXhbaV1bal0pOwogICAgICAgICAgICAgICAgaWYgKGogPCBtYXRyaXhbMF0ubGVuZ3RoIC0gMSkgU3lzdGVtLm91dC5wcmludCgnICcpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG1hdHJpeCA9IHsKICAgICAgICAgICAgezEsIDIsIDMsIDR9LAogICAgICAgICAgICB7NSwgNiwgMSwgOH0sCiAgICAgICAgICAgIHs5LCAwLCAxMSwgMTJ9LAogICAgICAgICAgICB7MTMsIDE0LCAxNSwgMTZ9LAogICAgICAgIH07CiAgICAgICAgcHJpbnRNYXRyaXgobWF0cml4KTsKICAgICAgICBDaGFwdGVyT25lLnplcm9NYXRyaXgobWF0cml4KTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBwcmludE1hdHJpeChtYXRyaXgpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGsgPSApCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdHJpeC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG1hdHJpeFswXS5sZW5ndGg7IGorKykgewogICAgICAgICAgICAgICAgaWYgKG1hdHJpeFtpXVtqXSAhPSAwKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGsgPSBqamspCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -415,8 +414,8 @@
         <entry>nohlsearch</entry>
         <entry>diffupdate</entry>
         <entry>syntax sync fromstart</entry>
-        <entry>q</entry>
         <entry>redo</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
