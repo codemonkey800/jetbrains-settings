@@ -130,13 +130,13 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" timestamp="1501828752937">
-        <mark key="'" line="26" column="22" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" timestamp="1501831304040">
+        <mark key="'" line="8" column="0" />
         <mark key="j" line="0" column="0" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="18" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java" timestamp="1501372561926">
         <mark key="'" line="92" column="18" />
@@ -375,7 +375,6 @@
       <jump line="6" column="3" filename="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" />
       <jump line="48" column="26" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="57" column="4" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
-      <jump line="27" column="48" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="2" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="9" column="35" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="21" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
@@ -384,13 +383,15 @@
       <jump line="30" column="35" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="4" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="26" column="22" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text encoding="base64">IGltcGxlbWVudHMgQ29tcGFyYWJsZTxXb3JkPiA=</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text encoding="base64">IGltcGxlbWVudHMgQ29tcGFyYWJsZTxXb3JkPiA=</text>
       </register>
       <register name="/" type="4">
         <text>For exa</text>
@@ -402,28 +403,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY29tcGFyZVRvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9kZSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTm9kZSgpIHsKICAgICAgICAgICAgdGhpcygwLCBudWxsKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyID0gbmV3IE5vZGUoaSwgY3VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IAo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
