@@ -112,10 +112,11 @@
         <mark key="]" line="3" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/test-shit/src/App.java" timestamp="1502509746784">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/java/test-shit/src/App.java" timestamp="1502516712413">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/ArrayUtils.java" timestamp="1500970395050">
         <mark key="[" line="3" column="12" />
@@ -184,46 +185,48 @@
       <jump line="36" column="4" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
       <jump line="4" column="33" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
       <jump line="5" column="43" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
+      <jump line="7" column="56" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
+      <jump line="8" column="97" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IGkgPSA=</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleF0gPSAnJSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0UGVybXV0YXRpb25zKExpc3Q8U3RyaW5nPiBwZXJtdXRhdGlvbnMsIFN0cmluZyBzdHIsIGludCBtaW4sIGludCBtYXgpIHsKICAgICAgICBpZiAobWluID09IG1heCkgcGVybXV0YXRpb25zLmFkZChzdHIpOwogICAgICAgIGVsc2UgewogICAgICAgICAgICBmb3IgKGludCBpID0gbWluOyBpIDw9IG1heDsgaSsrKSB7CiAgICAgICAgICAgICAgICBzdHIgPSBzd2FwKHN0ciwgbWluLCBpKTsKICAgICAgICAgICAgICAgIGdldFBlcm11dGF0aW9ucyhwZXJtdXRhdGlvbnMsIHN0ciwgbWluICsgMSwgbWF4KTsKICAgICAgICAgICAgICAgIHN0ciA9IHN3YXAoc3RyLCBtaW4sIGkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBzd2FwKFN0cmluZyBzdHIsIGludCBpLCBpbnQgaikgewogICAgICAgIGNoYXJbXSBkYXRhID0gc3RyLnRvQ2hhckFycmF5KCk7CiAgICAgICAgY2hhciB0bXAgPSBkYXRhW2ldOwogICAgICAgIGRhdGFbaV0gPSBkYXRhW2pdOwogICAgICAgIGRhdGFbal0gPSB0bXA7CiAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKGRhdGEpOwogICAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdXJsaWZ5KGNoYXJbXSBzdHIpIHsKICAgICAgICBpbnQgc3BhY2VzID0gMDsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0ci5sZW5ndGg7IGkrKykgc3BhY2VzKys7CiAgICAgICAgaWYgKHNwYWNlcyA9PSAwKSByZXR1cm47CgogICAgICAgIGludCBpbmRleCA9IHN0ci5sZW5ndGggLSAxOwogICAgICAgIHdoaWxlIChpbmRleCA+PSAwICYmIHN0cltpbmRleF0gPT0gJyAnKSBpbmRleC0tOwogICAgICAgIHdoaWxlIChpbmRleCA+PSAwKSB7CiAgICAgICAgICAgIGlmIChzdHJbaW5kZXhdID09ICcgJykgewogICAgICAgICAgICAgICAgc3RyW2luZGV4XSA9ICclJzsKICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDFdID0gJzInOwogICAgICAgICAgICAgICAgc3RyW2luZGV4ICsgMl0gPSAnMCc7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGVybXV0YXRpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgU3RyaW5nIHN0ciA9ICJBQkNEIjsKICAgICAgICBnZXRQZXJtdXRhdGlvbnMocGVybXV0YXRpb25zLCBzdHIsIDAsIHN0ci5sZW5ndGgoKSAtIDEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwZXJtdXRhdGlvbnMuc2l6ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyW10gc3RyID0gIkhlbGxvIFdvcmxkIFlvICAgICIudG9DaGFyQXJyYXkoKTsKICAgICAgICB1cmxpZnkoc3RyKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmNvcHlWYWx1ZU9mKHN0cikpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDJdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZGV4ID09IDApCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0bXBbaV0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyLnN1YnN0cmluZygwLCBpKQogICAgICAgICAgICAgICArIHN0ci5zdWJzdHJpbmcoaiwgaiArIDEpCiAgICAgICAgICAgICAgICsgc3RyLnN1YnN0cmluZyhpICsgMSwgaikKICAgICAgICAgICAgICAgKyBzdHIuc3Vic3RyaW5nKGogKyAxKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKyBzdHIuc3Vic3RyaW5nKGkgKyAxLCBqKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -234,8 +237,11 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>redo</entry>
+        <entry>q</entry>
+        <entry>nohlsearch</entry>
+        <entry>diffupdate</entry>
+        <entry>syntax sync fromstart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -264,6 +270,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
