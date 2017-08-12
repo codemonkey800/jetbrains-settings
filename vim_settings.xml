@@ -112,11 +112,10 @@
         <mark key="]" line="3" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/test-shit/src/App.java" timestamp="1501021265161">
-        <mark key="'" line="4" column="33" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/java/test-shit/src/App.java" timestamp="1502509746784">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/ArrayUtils.java" timestamp="1500970395050">
         <mark key="[" line="3" column="12" />
@@ -184,10 +183,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" />
       <jump line="36" column="4" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
       <jump line="4" column="33" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
+      <jump line="5" column="43" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50IGkgPSA=</text>
@@ -196,28 +196,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleF0gPSAnJSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZGV4ID09IDApCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdXJsaWZ5KGNoYXJbXSBzdHIpIHsKICAgICAgICBpbnQgc3BhY2VzID0gMDsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0ci5sZW5ndGg7IGkrKykgc3BhY2VzKys7CiAgICAgICAgaWYgKHNwYWNlcyA9PSAwKSByZXR1cm47CgogICAgICAgIGludCBpbmRleCA9IHN0ci5sZW5ndGggLSAxOwogICAgICAgIHdoaWxlIChpbmRleCA+PSAwICYmIHN0cltpbmRleF0gPT0gJyAnKSBpbmRleC0tOwogICAgICAgIHdoaWxlIChpbmRleCA+PSAwKSB7CiAgICAgICAgICAgIGlmIChzdHJbaW5kZXhdID09ICcgJykgewogICAgICAgICAgICAgICAgc3RyW2luZGV4XSA9ICclJzsKICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDFdID0gJzInOwogICAgICAgICAgICAgICAgc3RyW2luZGV4ICsgMl0gPSAnMCc7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyW10gc3RyID0gIkhlbGxvIFdvcmxkIFlvICAgICIudG9DaGFyQXJyYXkoKTsKICAgICAgICB1cmxpZnkoc3RyKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmNvcHlWYWx1ZU9mKHN0cikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gc3RyLmxlbmd0aCAtIDE7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICAgIGluZGV4ID0gaTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cltpbmRleCArIDJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZGV4ID09IDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
