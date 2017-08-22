@@ -3,17 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/TestConstants.java" timestamp="1501472906683">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/test-app/build.gradle.kts" timestamp="1499845904076">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/utils/ArrayUtils.java" timestamp="1501473867054">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -29,6 +18,127 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/testapp/src/main/java/Solution.java" timestamp="1501998011370">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/src/main.kt" timestamp="1501997581844">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/mockProjectViewFile" timestamp="1500865867341">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/algorithms/SortingTest.java" timestamp="1501371402311">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1500868636894">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task1/src/Task.kt" timestamp="1499844701130">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/ArrayUtils.java" timestamp="1500970308469">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501656915105">
+        <mark key="'" line="6" column="3" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/utils/RandomUtilsTest.java" timestamp="1501473314764">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/SortingTest.java" timestamp="1501467658137">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" timestamp="1499669666155">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/WORKSPACE" timestamp="1500866249048">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtilsTest.java" timestamp="1501372536535">
+        <mark key="'" line="8" column="48" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" timestamp="1500971299138">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="41" column="55" />
+        <mark key="." line="41" column="55" />
+        <mark key="^" line="41" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/TestApp.java" timestamp="1501477900903">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+      </file>
+      <file name="$USER_HOME$/src/java/ctci-solutions/.editorconfig" timestamp="1501478461681">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/TestConstants.java" timestamp="1501472906683">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/build.gradle.kts" timestamp="1499845904076">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/java/testapp/build.gradle" timestamp="1501998916001">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/datastructures/DynamicArray.java" timestamp="1501471044186">
         <mark key="'" line="49" column="0" />
@@ -78,12 +188,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/src/java/test-app/src/main.kt" timestamp="1499670534825">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
-      </file>
       <file name="$USER_HOME$/src/java/kotlin-koans/src/i_introduction/_0_Hello_World/HelloWorld.kt" timestamp="1499670326753">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="27" column="13" />
@@ -97,19 +201,7 @@
         <mark key="." line="69" column="33" />
         <mark key="^" line="69" column="33" />
       </file>
-      <file name="/mockProjectViewFile" timestamp="1500865867341">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/algorithms/SortingTest.java" timestamp="1501371402311">
-        <mark key="'" line="2" column="12" />
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1501470765038">
+      <file name="/Dummy.txt" timestamp="1501998548705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/datastructures/DynamicArrayTest.java" timestamp="1501470129326">
@@ -119,43 +211,16 @@
         <mark key="." line="46" column="55" />
         <mark key="^" line="46" column="55" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1500868636894">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/Kotlin_Koans1/lesson1/task1/src/Task.kt" timestamp="1499844701130">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" timestamp="1501901641974">
-        <mark key="'" line="5" column="0" />
-        <mark key="j" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" timestamp="1501990616267">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java" timestamp="1501372561926">
         <mark key="'" line="92" column="18" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/ArrayUtils.java" timestamp="1500970308469">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-      </file>
       <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtils.java" timestamp="1501372357207">
         <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/src/TestApp.java" timestamp="1501656915105">
-        <mark key="'" line="6" column="3" />
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/src/java/ctci-solutions/src/ChapterOne.java" timestamp="1501491729648">
         <mark key="[" line="348" column="28" />
@@ -163,31 +228,12 @@
         <mark key="." line="348" column="32" />
         <mark key="^" line="348" column="32" />
       </file>
-      <file name="$USER_HOME$/src/java/test-app/src/io/jeremyasuncion/main.kt" timestamp="1499844242279">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="24" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="24" />
-      </file>
       <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/algorithms/Sorting.java" timestamp="1501474338724">
         <mark key="'" line="67" column="23" />
         <mark key="[" line="113" column="39" />
         <mark key="]" line="113" column="40" />
         <mark key="." line="113" column="40" />
         <mark key="^" line="113" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/utils/RandomUtilsTest.java" timestamp="1501473314764">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-      </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/SortingTest.java" timestamp="1501467658137">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/build.gradle" timestamp="1501368483145">
         <mark key="'" line="13" column="0" />
@@ -202,35 +248,17 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/test-ap/src/main/kotlin/main.kt" timestamp="1499669666155">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-      </file>
       <file name="$USER_HOME$/src/java/kotlin-koans/src/util/LinksToDocumentation.kt" timestamp="1499670274379">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="89" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/WORKSPACE" timestamp="1500866249048">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/test-shit/src/App.java" timestamp="1501021265161">
-        <mark key="'" line="4" column="33" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/test/java/io/jeremyasuncion/algorithms/ArrayUtilsTest.java" timestamp="1501372536535">
-        <mark key="'" line="8" column="48" />
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="24" column="40" />
+      <file name="$USER_HOME$/src/java/test-shit/src/App.java" timestamp="1502684451261">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/ArrayUtils.java" timestamp="1500970395050">
         <mark key="[" line="3" column="12" />
@@ -238,12 +266,19 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" timestamp="1500971299138">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="40" column="57" />
-        <mark key="]" line="41" column="55" />
-        <mark key="." line="41" column="55" />
-        <mark key="^" line="41" column="55" />
+      <file name="$USER_HOME$/src/java/testapp/src/main/kotlin/io/jeremyasuncion/testapp/Main.kt" timestamp="1502000491890">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/java/test-app/src/Solution.java" timestamp="1501990935132">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/testapp/gradlew" timestamp="1501998943224">
+        <mark key="'" line="156" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/ArrayUtilsTest.java" timestamp="1500970386450">
         <mark key="[" line="11" column="32" />
@@ -258,13 +293,7 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/src/java/computer-science/src/main/java/io/jeremyasuncion/TestApp.java" timestamp="1501477900903">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="61" />
-        <mark key="." line="5" column="61" />
-        <mark key="^" line="5" column="61" />
-      </file>
-      <file name="/fragment.java" timestamp="1501659293591">
+      <file name="/fragment.java" timestamp="1501989996007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/test-app/.editorconfig" timestamp="1499671380820">
@@ -278,28 +307,9 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/ctci-solutions/.editorconfig" timestamp="1501478461681">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="/mockProjectViewFile" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/java/computer-science/third_party/BUILD" />
-      <jump line="12" column="5" filename="$USER_HOME$/src/java/computer-science/javatests/io/jeremyasuncion/algorithms/BUILD" />
-      <jump line="23" column="0" filename="$USER_HOME$/src/java/computer-science/javatests/io/jeremyasuncion/algorithms/SortingTest.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/java/computer-science/java/io/jeremyasuncion/algorithms/BUILD" />
-      <jump line="19" column="70" filename="$USER_HOME$/src/java/computer-science/javatests/io/jeremyasuncion/algorithms/SortingTest.java" />
-      <jump line="9" column="28" filename="$USER_HOME$/src/java/computer-science/build.gradle" />
-      <jump line="21" column="34" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
-      <jump line="20" column="8" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/java/computer-science/test/io/jeremyasuncion.io/algorithms/SortingTest.java" />
       <jump line="36" column="4" filename="$USER_HOME$/src/java/computer-science/src/io/jeremyasuncion.io/algorithms/Sorting.java" />
-      <jump line="4" column="33" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
       <jump line="13" column="0" filename="$USER_HOME$/src/java/computer-science/build.gradle" />
       <jump line="6" column="43" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
       <jump line="25" column="8" filename="$USER_HOME$/src/java/computer-science/src/test/java/datastructures/DynamicArrayTest.java" />
@@ -377,7 +387,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="26" column="22" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="27" column="4" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
-      <jump line="6" column="12" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="36" column="54" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="40" column="27" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="42" column="55" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
@@ -386,46 +395,60 @@
       <jump line="10" column="41" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="8" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
       <jump line="5" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="16" column="69" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="14" column="20" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/java/ctci-solutions/src/Solution.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/java/testapp/build.gradle" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/java/testapp/build.gradle" />
+      <jump line="32" column="25" filename="$USER_HOME$/src/java/testapp/build.gradle" />
+      <jump line="28" column="26" filename="$USER_HOME$/src/java/testapp/build.gradle" />
+      <jump line="26" column="7" filename="$USER_HOME$/src/java/testapp/build.gradle" />
+      <jump line="22" column="12" filename="$USER_HOME$/src/java/testapp/gradlew" />
+      <jump line="171" column="0" filename="$USER_HOME$/src/java/testapp/gradlew" />
+      <jump line="156" column="0" filename="$USER_HOME$/src/java/testapp/gradlew" />
+      <jump line="41" column="36" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/java/test-shit/src/App.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBzdGF0aWMgY2xhc3MgTm9kZSB7CiAgICAgICAgaW50IGRhdGE7CiAgICAgICAgTm9kZSBsZWZ0OwogICAgICAgIE5vZGUgcmlnaHQ7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KCIoJWQgJXMgJXMpIiwgZGF0YSwgbGVmdCwgcmlnaHQpOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBpbnQgaGVpZ2h0KE5vZGUgcm9vdCkgewogICAgICAgIGlmIChyb290ID09IG51bGwpIHJldHVybiAwOwogICAgICAgIGludCBoZWlnaHQgPSAxOwogICAgICAgIGlmIChyb290LmxlZnQgIT0gbnVsbCkgaGVpZ2h0ICs9IGhlaWdodChyb290LmxlZnQpOwogICAgICAgIGlmIChyb290LnJpZ2h0ICE9IG51bGwpIGhlaWdodCArPSBoZWlnaHQocm9vdC5yaWdodCk7CiAgICAgICAgcmV0dXJuIGhlaWdodDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBOb2RlIHRvQmluYXJ5U2VhcmNoVHJlZShpbnRbXSBudW1iZXJzKSB7CiAgICAgICAgcmV0dXJuIHRvQmluYXJ5U2VhcmNoVHJlZShudW1iZXJzLCAwLCBudW1iZXJzLmxlbmd0aCAtIDEpOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIE5vZGUgdG9CaW5hcnlTZWFyY2hUcmVlKGludFtdIG51bWJlcnMsIGludCBtaW4sIGludCBtYXgpIHsKICAgICAgICBpZiAobWluID4gbWF4KSByZXR1cm4gbnVsbDsKCiAgICAgICAgTm9kZSBub2RlID0gbmV3IE5vZGUoKTsKCiAgICAgICAgaWYgKG1pbiA9PSBtYXgpIHsKICAgICAgICAgICAgbm9kZS5kYXRhID0gbnVtYmVyc1ttaW5dOwogICAgICAgICAgICByZXR1cm4gbm9kZTsKICAgICAgICB9CgogICAgICAgIGludCBtaWQgPSAobWluICsgbWF4KSAvIDI7CiAgICAgICAgbm9kZS5kYXRhID0gbnVtYmVyc1ttaWRdOwogICAgICAgIG5vZGUubGVmdCA9IHRvQmluYXJ5U2VhcmNoVHJlZShudW1iZXJzLCBtaW4sIG1pZCAtIDEpOwogICAgICAgIG5vZGUucmlnaHQgPSB0b0JpbmFyeVNlYXJjaFRyZWUobnVtYmVycywgbWlkICsgMSwgbWF4KTsKICAgICAgICByZXR1cm4gbm9kZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>new int[16]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>For exa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBkYXRhID0gbmV3IGludFsxNl07Cg==</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwczovL2RsLmJpbnRyYXkuY29tL2tvdGxpbi9rdG9yJyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBzdGF0aWMgY2xhc3MgTm9kZSB7CiAgICAgICAgaW50IGRhdGE7CiAgICAgICAgTm9kZSBsZWZ0OwogICAgICAgIE5vZGUgcmlnaHQ7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KCIoJWQgJXMgJXMpIiwgZGF0YSwgbGVmdCwgcmlnaHQpOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBpbnQgaGVpZ2h0KE5vZGUgcm9vdCkgewogICAgICAgIGlmIChyb290ID09IG51bGwpIHJldHVybiAwOwogICAgICAgIGludCBoZWlnaHQgPSAxOwogICAgICAgIGlmIChyb290LmxlZnQgIT0gbnVsbCkgaGVpZ2h0ICs9IGhlaWdodChyb290LmxlZnQpOwogICAgICAgIGlmIChyb290LnJpZ2h0ICE9IG51bGwpIGhlaWdodCArPSBoZWlnaHQocm9vdC5yaWdodCk7CiAgICAgICAgcmV0dXJuIGhlaWdodDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBOb2RlIHRvQmluYXJ5U2VhcmNoVHJlZShpbnRbXSBudW1iZXJzKSB7CiAgICAgICAgcmV0dXJuIHRvQmluYXJ5U2VhcmNoVHJlZShudW1iZXJzLCAwLCBudW1iZXJzLmxlbmd0aCAtIDEpOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIE5vZGUgdG9CaW5hcnlTZWFyY2hUcmVlKGludFtdIG51bWJlcnMsIGludCBtaW4sIGludCBtYXgpIHsKICAgICAgICBpZiAobWluID4gbWF4KSByZXR1cm4gbnVsbDsKCiAgICAgICAgTm9kZSBub2RlID0gbmV3IE5vZGUoKTsKCiAgICAgICAgaWYgKG1pbiA9PSBtYXgpIHsKICAgICAgICAgICAgbm9kZS5kYXRhID0gbnVtYmVyc1ttaW5dOwogICAgICAgICAgICByZXR1cm4gbm9kZTsKICAgICAgICB9CgogICAgICAgIGludCBtaWQgPSAobWluICsgbWF4KSAvIDI7CiAgICAgICAgbm9kZS5kYXRhID0gbnVtYmVyc1ttaWRdOwogICAgICAgIG5vZGUubGVmdCA9IHRvQmluYXJ5U2VhcmNoVHJlZShudW1iZXJzLCBtaW4sIG1pZCAtIDEpOwogICAgICAgIG5vZGUucmlnaHQgPSB0b0JpbmFyeVNlYXJjaFRyZWUobnVtYmVycywgbWlkICsgMSwgbWF4KTsKICAgICAgICByZXR1cm4gbm9kZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludFtdIGRhdGEgPSBuZXcgaW50WzE2XTsKICAgICAgICBpbnRbXSBkYXRhID0gezEsIDIsIDMsIDQsIDV9OwovLyAgICAgICAgUmFuZG9tIHJhbmQgPSBuZXcgUmFuZG9tKCk7Ci8vICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDE2OyBpKyspIHt9CiAgICAgICAgTm9kZSB0cmVlID0gdG9CaW5hcnlTZWFyY2hUcmVlKGRhdGEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0cmVlKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGVpZ2h0KHRyZWUpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZ0Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGpkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkYXRhW2ldID0gcmFuZC5uZXh0SW50KDEwKTsKLy8gICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm9vdC5sZWZ0ID09IG51bGwgJiYgcm9vdC5yaWdodCA9PSBudWxsKSByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG0gPSB7CiAgICAgICAgICAgIHsxLCAwLCAwLCAwfSwKICAgICAgICAgICAgezEsIDEsIDAsIDF9LAogICAgICAgICAgICB7MSwgMSwgMCwgMH0sCiAgICAgICAgICAgIHswLCAxLCAxLCAxfQogICAgICAgIH07CiAgICAgICAgaW50IG4gPSBtLmxlbmd0aDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oR2ZHLnByaW50UGF0aChtLCBuKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgR2ZHIHsKCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXJyYXlMaXN0PFN0cmluZz4gcHJpbnRQYXRoKGludFtdW10gbSwgaW50IG4pIHsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBwYXRocyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGhlbHBlcihtLCBwYXRocywgIiIsIDAsIDApOwogICAgICAgIHJldHVybiBwYXRoczsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGhlbHBlcihpbnRbXVtdIG0sIExpc3Q8U3RyaW5nPiBwYXRocywgU3RyaW5nIHBhdGgsIGludCB4LCBpbnQgeSkgewogICAgICAgIGludCBuID0gbS5sZW5ndGg7CgogICAgICAgIGlmICh4ID09IG4gLSAxICYmIHkgPT0gbiAtIDEpIHsKICAgICAgICAgICAgcGF0aHMuYWRkKHBhdGgpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBpZiAoaXNTYWZlKG0sIHgsIHkpKSB7CiAgICAgICAgICAgIGhlbHBlcihtLCBwYXRocywgcGF0aCArICJEIiwgeCArIDEsIHkpOwogICAgICAgICAgICBoZWxwZXIobSwgcGF0aHMsIHBhdGggKyAiUiIsIHgsIHkgKyAxKTsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBpc1NhZmUoaW50W11bXSBtLCBpbnQgeCwgaW50IHkpIHsKICAgICAgICBpbnQgbiA9IG0ubGVuZ3RoOwogICAgICAgIHJldHVybiB4ID49IDAgJiYgeCA8IG4KICAgICAgICAgICAgICAgJiYgeSA+PSAwICYmIHkgPCBuCiAgICAgICAgICAgICAgICYmIG1beF1beV0gPT0gMTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -504,6 +527,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
