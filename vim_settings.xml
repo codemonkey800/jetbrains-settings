@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/main.cpp" timestamp="1508399873354">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="35" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/main.cpp" timestamp="1508402418356">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" timestamp="1508401404975">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="46" column="62" />
-        <mark key="." line="46" column="62" />
-        <mark key="^" line="46" column="62" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" timestamp="1508402453214">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="71" column="19" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/CMakeLists.txt" timestamp="1508399367893">
         <mark key="[" line="9" column="11" />
@@ -22,12 +22,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" timestamp="1508400924984">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" timestamp="1508402327619">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -57,13 +57,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
       <jump line="25" column="3" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
       <jump line="44" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" />
+      <jump line="59" column="25" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
+      <jump line="54" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;The specified key is invalid!&quot;</text>
+        <text>1</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uIA==</text>
@@ -72,28 +76,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBTaW1wbGVTdWJzdGl0dXRpb246OnNldF9rZXkoc3RyaW5nIGlucHV0X2tleSkgewogICAgcGxhaW50ZXh0ID0gaW5wdXRfa2V5Owp9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNpcGhlcnRleHQgPSBpbnB1dF9jaXBoZXJ0ZXh0Owo=</text>
+        <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uOjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBTaW1wbGUK</text>
+        <text encoding="base64">ICAgIGNpcGhlci5zZXRfa2V5KGtleSk7CiAgICBjaXBoZXIucHJpbnRfa2V5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGVyZSBleGlzdHMga2V5IGMgaW4gdGhlIG1hcCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoa2V5LmNvdW50KGMpID09IDApIHsKICAgICAgICAgICAgY2lwaGVydGV4dCArPSBjOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGNpcGhlcnRleHQgKz0ga2V5W2NdOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2lwaGVydGV4dC5jbGVhcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPmtleSA9IGtleTsKICAgIGNpcGhlcnRleHQgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGVyZSBpcyBubyBtYXBwaW5nIGZvciBjaGFyIGMsIGNsZWFyIHRoZSBjaXBoZXJ0ZXh0CiAgICAgICAgLy8gYW5kIHJldHVybiBmYWxzZS4gQW5vdGhlciB3YXkgd2UgY291bGQgaGFuZGxlIHRoaXMgaXMgdG8gbGV0IHRoZQogICAgICAgIC8vIHRoZSBjaGFyYWN0ZXIgYmUgYWRkZWQgdW5hbHRlcmVkLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
