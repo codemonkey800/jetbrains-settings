@@ -22,11 +22,16 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509043332363">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/src/translazy/backend/.gitignore" timestamp="1509059776870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509059715610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" timestamp="1508402327619">
         <mark key="'" line="29" column="0" />
@@ -70,8 +75,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z3JvdXAgPSAiaW8udHJhbnNsYXp5Igo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -80,31 +85,31 @@
         <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Z3JvdXAgPSAiaW8udHJhbnNsYXp5Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKICAgIH0KICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZ3JhZGxlLXBsdWdpbjoiKQogICAgfQp9Cgo=</text>
+        <text encoding="base64">Z3JvdXAgJ2lvLnRyYW5zbGF6eScKdmVyc2lvbiAnMC4xLjAnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uOjoK</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKICAgIH0KICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZ3JhZGxlLXBsdWdpbjoiKQogICAgfQp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNpcGhlci5zZXRfa2V5KGtleSk7CiAgICBjaXBoZXIucHJpbnRfa2V5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGVyZSBleGlzdHMga2V5IGMgaW4gdGhlIG1hcCwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoa2V5LmNvdW50KGMpID09IDApIHsKICAgICAgICAgICAgY2lwaGVydGV4dCArPSBjOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGNpcGhlcnRleHQgKz0ga2V5W2NdOwogICAgICAgIH0K</text>
+        <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uOjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2lwaGVydGV4dC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgIGNpcGhlci5zZXRfa2V5KGtleSk7CiAgICBjaXBoZXIucHJpbnRfa2V5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
