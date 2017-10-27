@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" timestamp="1509062400308">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="9" />
+      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/main.cpp" timestamp="1508402418356">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -28,10 +34,19 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509059715610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509059903137">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1509061848281">
+        <mark key="'" line="21" column="50" />
+        <mark key="[" line="30" column="57" />
+        <mark key="]" line="30" column="57" />
+        <mark key="." line="30" column="57" />
+        <mark key="^" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" timestamp="1508402327619">
         <mark key="'" line="29" column="0" />
@@ -73,43 +88,61 @@
       <jump line="54" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
       <jump line="45" column="0" filename="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle.kts" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="12" column="24" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="30" column="21" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="8" column="34" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="10" column="12" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="5" column="15" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="1" column="108" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="26" column="59" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="27" column="58" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="19" column="46" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="20" column="50" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="14" column="20" filename="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" />
+      <jump line="15" column="19" filename="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" />
+      <jump line="25" column="6" filename="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z3JvdXAgPSAiaW8udHJhbnNsYXp5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgLmRhdGFGZXRjaGVyIHsgIkhlbGxvLCBXb3JsZCEiIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JvdXAgPSAiaW8udHJhbnNsYXp5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXAgJ2lvLnRyYW5zbGF6eScKdmVyc2lvbiAnMC4xLjAnCg==</text>
+        <text encoding="base64">ICBAQmVhbgogIGZ1biBzY2hlbWEoKTogR3JhcGhRTFNjaGVtYSB7CiAgICB2YWwgcXVlcnkgPSBHcmFwaFFMT2JqZWN0VHlwZS5uZXdPYmplY3QoKQogICAgICAubmFtZSgicXVlcnkiKQogICAgICAuZmllbGQgeyBmaWVsZCAtPgogICAgICAgIGZpZWxkCiAgICAgICAgICAubmFtZSgidGVzdCIpCiAgICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgICAuZGF0YUZldGNoZXIgeyAiSGVsbG8sIFdvcmxkISIgfQogICAgICB9CiAgICAgIC5idWlsZCgpCgogICAgdmFsIHNjaGVtYSA9IEdyYXBoUUxTY2hlbWEubmV3U2NoZW1hKCkKICAgICAgLnF1ZXJ5KHF1ZXJ5KQogICAgICAuYnVpbGQoKQoKICAgIHJldHVybiBzY2hlbWEKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKICAgIH0KICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3NwYXRoKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZ3JhZGxlLXBsdWdpbjoiKQogICAgfQp9Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC5idWkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2ltcGxlU3Vic3RpdHV0aW9uOjoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNpcGhlci5zZXRfa2V5KGtleSk7CiAgICBjaXBoZXIucHJpbnRfa2V5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
