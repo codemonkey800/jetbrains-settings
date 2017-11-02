@@ -9,6 +9,9 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="9" />
       </file>
+      <file name="/Dummy.txt" timestamp="1509596709131">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/main.cpp" timestamp="1508402418356">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -34,19 +37,22 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509059903137">
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509597198115">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-        <mark key="^" line="1" column="30" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1509061848281">
-        <mark key="'" line="21" column="50" />
-        <mark key="[" line="30" column="57" />
-        <mark key="]" line="30" column="57" />
-        <mark key="." line="30" column="57" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1509596978980">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="43" column="49" />
+        <mark key="." line="43" column="54" />
+        <mark key="^" line="42" column="58" />
+      </file>
+      <file name="/fragment.java" timestamp="1509596709075">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" timestamp="1508402327619">
         <mark key="'" line="29" column="0" />
@@ -99,50 +105,60 @@
       <jump line="1" column="108" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="18" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
-      <jump line="26" column="59" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
-      <jump line="27" column="58" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="19" column="46" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="20" column="50" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="14" column="20" filename="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" />
       <jump line="15" column="19" filename="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" />
       <jump line="25" column="6" filename="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="24" column="34" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="27" column="34" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="35" column="32" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="21" column="6" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="26" column="21" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="41" column="56" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="44" column="65" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="43" column="65" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="42" column="4" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="6" column="14" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${kotlinVersion}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${kotlinVersion}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgLmRhdGFGZXRjaGVyIHsgIkhlbGxvLCBXb3JsZCEiIH0K</text>
+        <text encoding="base64">CWlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMS41MScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAQmVhbgogIGZ1biBzY2hlbWEoKTogR3JhcGhRTFNjaGVtYSB7CiAgICB2YWwgcXVlcnkgPSBHcmFwaFFMT2JqZWN0VHlwZS5uZXdPYmplY3QoKQogICAgICAubmFtZSgicXVlcnkiKQogICAgICAuZmllbGQgeyBmaWVsZCAtPgogICAgICAgIGZpZWxkCiAgICAgICAgICAubmFtZSgidGVzdCIpCiAgICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgICAuZGF0YUZldGNoZXIgeyAiSGVsbG8sIFdvcmxkISIgfQogICAgICB9CiAgICAgIC5idWlsZCgpCgogICAgdmFsIHNjaGVtYSA9IEdyYXBoUUxTY2hlbWEubmV3U2NoZW1hKCkKICAgICAgLnF1ZXJ5KHF1ZXJ5KQogICAgICAuYnVpbGQoKQoKICAgIHJldHVybiBzY2hlbWEKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlkICdvcmcuamV0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4K</text>
+        <text encoding="base64">CScnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CScnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5idWkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBAQmVhbgogIGZ1biBzY2hlbWEoKTogR3JhcGhRTFNjaGVtYSB7CiAgICB2YWwgcXVlcnkgPSBHcmFwaFFMT2JqZWN0VHlwZS5uZXdPYmplY3QoKQogICAgICAubmFtZSgicXVlcnkiKQogICAgICAuZmllbGQgeyBmaWVsZCAtPgogICAgICAgIGZpZWxkCiAgICAgICAgICAubmFtZSgidGVzdCIpCiAgICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgICAuZGF0YUZldGNoZXIgeyAiSGVsbG8sIFdvcmxkISIgfQogICAgICB9CiAgICAgIC5idWlsZCgpCgogICAgdmFsIHNjaGVtYSA9IEdyYXBoUUxTY2hlbWEubmV3U2NoZW1hKCkKICAgICAgLnF1ZXJ5KHF1ZXJ5KQogICAgICAuYnVpbGQoKQoKICAgIHJldHVybiBzY2hlbWEKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
