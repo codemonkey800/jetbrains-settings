@@ -69,12 +69,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1510349643199">
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1510351241574">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-        <mark key="." line="41" column="23" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1509662055804">
         <mark key="[" line="0" column="0" />
@@ -146,8 +145,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mavenCentral</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z3JhZGxlCg==</text>
       </register>
       <register name="-" type="4">
         <text>mavenCentral</text>
@@ -156,31 +155,31 @@
         <text encoding="base64">CWlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMS41MScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JhZGxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWNsaXBzZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWNsaXBzZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsID0gVVJJKCIiKSB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIiIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsID0gVVJJKCIiKSB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUoIiIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUoa290bGluKCJzdGRsaWIiKSkKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUoa290bGluKCJzdGRsaWIiKSkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
