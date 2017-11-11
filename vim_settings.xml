@@ -69,12 +69,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1510384218256">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="53" />
-        <mark key="." line="38" column="53" />
-        <mark key="^" line="38" column="53" />
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1510385255559">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1509662055804">
         <mark key="[" line="0" column="0" />
@@ -88,31 +87,22 @@
     <jumps>
       <jump line="20" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="27" column="20" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="35" column="18" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-  fun schema() = GraphQLSchema.newSchema()
-    .query(
-      GraphQLObjectType.newObject()
-        .name(&quot;query&quot;)
-        .field {
-          it
-            .name(&quot;test&quot;)
-            .type(Scalars.GraphQLString)
-            .dataFetcher { &quot;response&quot; }
-        }
-        .build())
-    .build()
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWFjdHVhdG9yJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>web</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5ncmFwaHFsLWphdmE6Z3JhcGhxbC1zcHJpbmctYm9vdC1zdGFydGVyOjMuOS4yJwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYicK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWFjdHVhdG9yJwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>{
   fun schema() = GraphQLSchema.newSchema()
     .query(
@@ -128,29 +118,26 @@
     .build()
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y2xhc3MgQmFja2VuZEFwcGxpY2F0aW9uIHsKICBmdW4gc2NoZW1hKCkgPSBHcmFwaFFMU2NoZW1hLm5ld1NjaGVtYSgpCiAgICAucXVlcnkoCiAgICAgIEdyYXBoUUxPYmplY3RUeXBlLm5ld09iamVjdCgpCiAgICAgICAgLm5hbWUoInF1ZXJ5IikKICAgICAgICAuZmllbGQgewogICAgICAgICAgaXQKICAgICAgICAgICAgLm5hbWUoInRlc3QiKQogICAgICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgICAgIC5kYXRhRmV0Y2hlciB7ICJyZXNwb25zZSIgfQogICAgICAgIH0KICAgICAgICAuYnVpbGQoKSkKICAgIC5idWlsZCgpCn0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmdW4gc2NoZW1hKCk6IEdyYXBoUUxTY2hlbWEgewogICAgdmFsIHF1ZXJ5ID0gR3JhcGhRTE9iamVjdFR5cGUubmV3T2JqZWN0KCkKICAgICAgLm5hbWUoInF1ZXJ5IikKICAgICAgLmZpZWxkIHsgZmllbGQgLT4KICAgICAgICBmaWVsZAogICAgICAgICAgLm5hbWUoInRlc3QiKQogICAgICAgICAgLnR5cGUoU2NhbGFycy5HcmFwaFFMU3RyaW5nKQogICAgICAgICAgLmRhdGFGZXRjaGVyIHsgInJlc3BvbnNlIiB9CiAgICAgIH0KICAgICAgLmJ1aWxkKCkKCiAgICByZXR1cm4gR3JhcGhRTFNjaGVtYS5uZXdTY2hlbWEoKQogICAgICAucXVlcnkocXVlcnkpCiAgICAgIC5idWlsZCgpCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
