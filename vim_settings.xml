@@ -2,14 +2,208 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1509597596507">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/main.cpp" timestamp="1508402418356">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/CMakeLists.txt" timestamp="1508399367893">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/.gitignore" timestamp="1509059776870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle.kts" timestamp="1509597707820">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.h" timestamp="1508402327619">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/var/tmp/kotlin-dsl/samples/hello-kotlin/build.gradle.kts" timestamp="1509598516826">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/Application.kt" timestamp="1509062400308">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/misc/sjsu/2017/fall/cs/144/exams/midterm/src/SimpleSubstitution.cpp" timestamp="1508402453214">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="71" column="19" />
+      </file>
+      <file name="$USER_HOME$/var/tmp/kotlin-dsl/samples/hello-kotlin/src/main/kotlin/samples/HelloWorld.kt" timestamp="1509598220264">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/var/tmp/example/build.gradle.kts" timestamp="1509662106482">
+        <mark key="'" line="3" column="25" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/build.gradle" timestamp="1510384218256">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+      </file>
+      <file name="/fragment.java" timestamp="1509662055804">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/translazy/backend/src/main/kotlin/io/translazy/backend/BackendApplication.kt" timestamp="1510384313352">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="27" column="20" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>{
+  fun schema() = GraphQLSchema.newSchema()
+    .query(
+      GraphQLObjectType.newObject()
+        .name(&quot;query&quot;)
+        .field {
+          it
+            .name(&quot;test&quot;)
+            .type(Scalars.GraphQLString)
+            .dataFetcher { &quot;response&quot; }
+        }
+        .build())
+    .build()
+}</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5ncmFwaHFsLWphdmE6Z3JhcGhxbC1zcHJpbmctYm9vdC1zdGFydGVyOjMuOS4yJwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>{
+  fun schema() = GraphQLSchema.newSchema()
+    .query(
+      GraphQLObjectType.newObject()
+        .name(&quot;query&quot;)
+        .field {
+          it
+            .name(&quot;test&quot;)
+            .type(Scalars.GraphQLString)
+            .dataFetcher { &quot;response&quot; }
+        }
+        .build())
+    .build()
+}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgQmFja2VuZEFwcGxpY2F0aW9uIHsKICBmdW4gc2NoZW1hKCkgPSBHcmFwaFFMU2NoZW1hLm5ld1NjaGVtYSgpCiAgICAucXVlcnkoCiAgICAgIEdyYXBoUUxPYmplY3RUeXBlLm5ld09iamVjdCgpCiAgICAgICAgLm5hbWUoInF1ZXJ5IikKICAgICAgICAuZmllbGQgewogICAgICAgICAgaXQKICAgICAgICAgICAgLm5hbWUoInRlc3QiKQogICAgICAgICAgICAudHlwZShTY2FsYXJzLkdyYXBoUUxTdHJpbmcpCiAgICAgICAgICAgIC5kYXRhRmV0Y2hlciB7ICJyZXNwb25zZSIgfQogICAgICAgIH0KICAgICAgICAuYnVpbGQoKSkKICAgIC5idWlsZCgpCn0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBmdW4gc2NoZW1hKCk6IEdyYXBoUUxTY2hlbWEgewogICAgdmFsIHF1ZXJ5ID0gR3JhcGhRTE9iamVjdFR5cGUubmV3T2JqZWN0KCkKICAgICAgLm5hbWUoInF1ZXJ5IikKICAgICAgLmZpZWxkIHsgZmllbGQgLT4KICAgICAgICBmaWVsZAogICAgICAgICAgLm5hbWUoInRlc3QiKQogICAgICAgICAgLnR5cGUoU2NhbGFycy5HcmFwaFFMU3RyaW5nKQogICAgICAgICAgLmRhdGFGZXRjaGVyIHsgInJlc3BvbnNlIiB9CiAgICAgIH0KICAgICAgLmJ1aWxkKCkKCiAgICByZXR1cm4gR3JhcGhRTFNjaGVtYS5uZXdTY2hlbWEoKQogICAgICAucXVlcnkocXVlcnkpCiAgICAgIC5idWlsZCgpCiAgfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
