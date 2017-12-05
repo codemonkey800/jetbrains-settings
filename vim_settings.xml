@@ -56,6 +56,9 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="71" column="19" />
       </file>
+      <file name="$USER_HOME$/src/apps/NewPipe/app/src/main/java/org/schabi/newpipe/MainActivity.java" timestamp="1512461183522">
+        <mark key="'" line="329" column="0" />
+      </file>
       <file name="$USER_HOME$/var/tmp/kotlin-dsl/samples/hello-kotlin/src/main/kotlin/samples/HelloWorld.kt" timestamp="1509598220264">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="20" />
@@ -88,6 +91,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="27" column="20" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
       <jump line="35" column="18" filename="$USER_HOME$/src/translazy/backend/build.gradle" />
+      <jump line="329" column="0" filename="$USER_HOME$/src/apps/NewPipe/app/src/main/java/org/schabi/newpipe/MainActivity.java" />
+      <jump line="268" column="17" filename="$USER_HOME$/src/apps/NewPipe/app/src/main/java/org/schabi/newpipe/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -190,6 +195,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
